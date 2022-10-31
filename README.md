@@ -8,8 +8,6 @@ Este código em python tem por objetivo fazer uma proposta de composição de ca
 
 · Investimentos de até 5 anos
 
-[Apresentação](https://docs.google.com/presentation/d/1IP8UQWQCqIyyO-268HsZK2sBy7mZ0JsT/edit?usp=sharing&ouid=105469954340612395457&rtpof=true&sd=true)
-
 ## Pacotes utilizados
 
 * [pyfolio](https://pyfolio.ml4trading.io/)
