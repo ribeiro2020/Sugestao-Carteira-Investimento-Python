@@ -1,0 +1,589 @@
+registro;retorno;rentabilidade;empresa;tag;tipo;retabilidade_ano;prazo;distribuidor;emissor;meses;
+1;5.619;12.38;ABC Prefixado 12.38% por ABC Personal;FGC;LCA;12.38% a.a.;18/10/2023;ABC Personal;ABC;12;5619
+2;5.576;11.53;ABC IPCA + 5.51% por ABC Personal;FGC;LCA;11.53% a.a.;18/10/2023;ABC Personal;ABC;12;5576
+3;5.567;13.99;ABC Prefixado 13.99% por ABC Personal;FGC;CDB;11.53% a.a.;12/10/2023;ABC Personal;ABC;12;5567
+4;5.566;95.05;ABC 95.05% CDI por ABC Personal;FGC;LCA;11.32% a.a.;18/10/2023;ABC Personal;ABC;12;5566
+5;5.540;13.10;ABC IPCA + 7% por ABC Personal;FGC;CDB;10.81% a.a.;18/10/2023;ABC Personal;ABC;12;5540
+6;5.539;91.00;ABC 91% CDI por Guide Investimentos;FGC;LCA;10.84% a.a.;17/10/2023;Guide Investimentos;ABC;12;5539
+7;5.533;91.00;ABC 91% CDI por ABC Personal;FGC;LCA;10.84% a.a.;12/10/2023;ABC Personal;ABC;12;5533
+8;5.514;106.50;ABC 106.5% CDI por ABC Personal;FGC;CDB;10.46% a.a.;12/10/2023;ABC Personal;ABC;12;5514
+9;5.499;102.00;ABC 102% CDI por Guide Investimentos;FGC;CDB;10.02% a.a.;17/10/2023;Guide Investimentos;ABC;12;5499
+10;5.487;100.00;ABC 100% CDI por ABC Personal;FGC;CDB;9.82% a.a.;16/10/2023;ABC Personal;ABC;12;5487
+11;6201;1159;ABC Prefixado 11.59% por ABC Personal;FGC;LCA;11.59% a.a.;05/10/2024;ABC Personal;ABC;24;6201
+12;6199;1135;ABC IPCA + 5.34% por ABC Personal;FGC;LCA;11.35% a.a.;17/10/2024;ABC Personal;ABC;24;6199
+13;6141;9800;ABC 98% CDI por ABC Personal;FGC;LCA;11.03% a.a.;05/10/2024;ABC Personal;ABC;24;6141
+14;6125;1271;ABC Prefixado 12.71% por ABC Personal;FGC;CDB;10.89% a.a.;06/10/2024;ABC Personal;ABC;24;6125
+15;6116;9400;ABC 94% CDI por Guide Investimentos;FGC;LCA;10.58% a.a.;19/10/2024;Guide Investimentos;ABC;24;6116
+16;6064;10700;ABC 107% CDI por ABC Personal;FGC;CDB;10.32% a.a.;06/10/2024;ABC Personal;ABC;24;6064
+17;6037;10250;ABC 102.5% CDI por Guide Investimentos;FGC;CDB;9.88% a.a.;17/10/2024;Guide Investimentos;ABC;24;6037
+18;6008;10000;ABC 100% CDI por ABC Personal;FGC;CDB;9.64% a.a.;16/10/2024;ABC Personal;ABC;24;6008
+19;5.291;11.82;ABC Prefixado 11.82% por Guide Investimentos;FGC;LCA;11.82% a.a.;21/04/2023;Guide Investimentos;ABC;6;5291
+20;5.275;14.38;ABC Prefixado 14.38% por ABC Personal;FGC;CDB;11.42% a.a.;17/04/2023;ABC Personal;ABC;6;5275
+21;5.273;93.02;ABC 93.02% CDI por ABC Personal;FGC;LCA;11.34% a.a.;17/04/2023;ABC Personal;ABC;6;5273
+22;5.268;89.00;ABC 89% CDI por Guide Investimentos;FGC;LCA;10.85% a.a.;21/04/2023;Guide Investimentos;ABC;6;5268
+23;5.267;91.00;ABC 91% CDI por ABC Personal;FGC;LCA;11.09% a.a.;17/04/2023;ABC Personal;ABC;6;5267
+24;5.267;91.00;ABC 91% CDI por ABC Personal;FGC;LCA;11.09% a.a.;17/04/2023;ABC Personal;ABC;6;5267
+25;5.265;13.50;ABC Prefixado 13.5% por Guide Investimentos;FGC;CDB;10.73% a.a.;20/04/2023;Guide Investimentos;ABC;6;5265
+26;5.247;105.51;ABC 105.51% CDI por ABC Personal;FGC;CDB;10.23% a.a.;17/04/2023;ABC Personal;ABC;6;5247
+27;5.239;101.00;ABC 101% CDI por Guide Investimentos;FGC;CDB;9.79% a.a.;18/04/2023;Guide Investimentos;ABC;6;5239
+28;5.234;100.00;ABC 100% CDI por ABC Personal;FGC;CDB;9.69% a.a.;17/04/2023;ABC Personal;ABC;6;5234
+29;5.570;13.95;Agibank Prefixado 13.95% por Nova Futura Investimentos;FGC;CDB;11.50% a.a.;16/10/2023;Nova Futura Investimentos;Agibank;12;5570
+30;5.562;13.75;Agibank Prefixado 13.75% por modalmais;FGC;CDB;11.34% a.a.;16/10/2023;modalmais;Agibank;12;5562
+31;6181;1310;Agibank Prefixado 13.1% por Nova Futura Investimentos;FGC;CDB;11.23% a.a.;15/10/2024;Nova Futura Investimentos;Agibank;24;6181
+32;6162;1290;Agibank Prefixado 12.9% por modalmais;FGC;CDB;11.05% a.a.;15/10/2024;modalmais;Agibank;24;6162
+33;6129;11150;Agibank 111.5% CDI por modalmais;FGC;CDB;10.76% a.a.;15/10/2024;modalmais;Agibank;24;6129
+34;6129;11150;Agibank 111.5% CDI por Nova Futura Investimentos;FGC;CDB;10.76% a.a.;15/10/2024;Nova Futura Investimentos;Agibank;24;6129
+35;6123;11050;Agibank 110.5% CDI por Guide Investimentos;FGC;CDB;10.66% a.a.;17/10/2024;Guide Investimentos;Agibank;24;6123
+36;5932;9300;Agibank 93% CDI por Guide Investimentos;FGC;CDB;8.96% a.a.;15/10/2024;Guide Investimentos;Agibank;24;5932
+37;5928;9400;Agibank 94% CDI por Nova Futura Investimentos;FGC;CDB;9.05% a.a.;06/10/2024;Nova Futura Investimentos;Agibank;24;5928
+38;8562;11650;Agibank 116.5% CDI por Nova Futura Investimentos;FGC;CDB;11.39% a.a.;15/10/2027;Nova Futura Investimentos;Agibank;60;8562
+39;5.225;96.00;Agibank 96% CDI por Órama;FGC;CDB;9.31% a.a.;17/04/2023;Órama;Agibank;6;5225
+40;5.223;95.00;Agibank 95% CDI por Ágora Investimentos;FGC;CDB;9.21% a.a.;17/04/2023;Ágora Investimentos;Agibank;6;5223
+41;5.221;94.00;Agibank 94% CDI por Nova Futura Investimentos;FGC;CDB;9.11% a.a.;17/04/2023;Nova Futura Investimentos;Agibank;6;5221
+42;5.218;93.00;Agibank 93% CDI por Guide Investimentos;FGC;CDB;9.02% a.a.;17/04/2023;Guide Investimentos;Agibank;6;5218
+43;5.499;102.00;Alfa 102% CDI por Guide Investimentos;FGC;CDB;10.02% a.a.;17/10/2023;Guide Investimentos;Alfa;12;5499
+44;6037;10250;Alfa 102.5% CDI por Guide Investimentos;FGC;CDB;9.88% a.a.;17/10/2024;Guide Investimentos;Alfa;24;6037
+45;5.282;11.70;Alfa Prefixado 11.7% por BTG Pactual;FGC;LCA;11.70% a.a.;17/04/2023;BTG Pactual;Alfa;6;5282
+46;5.282;11.60;Alfa Prefixado 11.6% por Guide Investimentos;FGC;LCA;11.60% a.a.;18/04/2023;Guide Investimentos;Alfa;6;5282
+47;5.270;14.11;Alfa Prefixado 14.11% por BTG Pactual;FGC;CDB;11.21% a.a.;17/04/2023;BTG Pactual;Alfa;6;5270
+48;5.268;89.00;Alfa 89% CDI por Guide Investimentos;FGC;LCA;10.85% a.a.;20/04/2023;Guide Investimentos;Alfa;6;5268
+49;5.262;89.00;Alfa 89% CDI por BTG Pactual;FGC;LCA;10.85% a.a.;17/04/2023;BTG Pactual;Alfa;6;5262
+50;5.257;88.00;Alfa 88% CDI por Guide Investimentos;FGC;LCA;10.73% a.a.;16/04/2023;Guide Investimentos;Alfa;6;5257
+51;5.240;102.50;Alfa 102.5% CDI por BTG Pactual;FGC;CDB;9.93% a.a.;17/04/2023;BTG Pactual;Alfa;6;5240
+52;5.240;101.50;Alfa 101.5% CDI por Guide Investimentos;FGC;CDB;9.84% a.a.;18/04/2023;Guide Investimentos;Alfa;6;5240
+53;5.517;107.00;Arbi 107% CDI por modalmais;FGC;CDB;10.51% a.a.;12/10/2023;modalmais;Arbi;12;5517
+54;6095;11000;Arbi 110% CDI por modalmais;FGC;CDB;10.61% a.a.;06/10/2024;modalmais;Arbi;24;6095
+55;5.289;12.03;Banco de Brasília Prefixado 12.03% por BTG Pactual;FGC;LCA;12.03% a.a.;17/04/2023;BTG Pactual;Banco de Brasília;6;5289
+56;5.281;11.38;Banco de Brasília Prefixado 11.38% por Guide Investimentos;FGC;LCI;11.38% a.a.;20/04/2023;Guide Investimentos;Banco de Brasília;6;5281
+57;5.276;11.48;Banco de Brasília Prefixado 11.48% por Nu invest;FGC;LCI;11.48% a.a.;17/04/2023;Nu invest;Banco de Brasília;6;5276
+58;5.521;106.00;Banco Industrial do Brasil 106% CDI por Ágora Investimentos;FGC;CDB;10.42% a.a.;18/10/2023;Ágora Investimentos;Banco Industrial do Brasil;12;5521
+59;5.516;106.00;Banco Industrial do Brasil 106% CDI por modalmais;FGC;CDB;10.41% a.a.;16/10/2023;modalmais;Banco Industrial do Brasil;12;5516
+60;5.511;105.00;Banco Industrial do Brasil 105% CDI por Guide Investimentos;FGC;CDB;10.32% a.a.;16/10/2023;Guide Investimentos;Banco Industrial do Brasil;12;5511
+61;6098;10800;Banco Industrial do Brasil 108% CDI por  gora Investimentos;FGC;CDB;10.42% a.a.;18/10/2024; gora Investimentos;Banco Industrial do Brasil;24;6098
+62;6091;10800;Banco Industrial do Brasil 108% CDI por modalmais;FGC;CDB;10.42% a.a.;15/10/2024;modalmais;Banco Industrial do Brasil;24;6091
+63;6090;10700;Banco Industrial do Brasil 107% CDI por Guide Investimentos;FGC;CDB;10.32% a.a.;21/10/2024;Guide Investimentos;Banco Industrial do Brasil;24;6090
+64;8278;10900;Banco Industrial do Brasil 109% CDI por  gora Investimentos;FGC;CDB;10.64% a.a.;17/10/2027; gora Investimentos;Banco Industrial do Brasil;60;8278
+65;8278;10900;Banco Industrial do Brasil 109% CDI por modalmais;FGC;CDB;10.64% a.a.;15/10/2027;modalmais;Banco Industrial do Brasil;60;8278
+66;5.234;100.00;Banco Industrial do Brasil 100% CDI por BTG Pactual;FGC;CDB;9.69% a.a.;17/04/2023;BTG Pactual;Banco Industrial do Brasil;6;5234
+67;5.234;100.00;Banco Industrial do Brasil 100% CDI por Ágora Investimentos;FGC;CDB;9.69% a.a.;17/04/2023;Ágora Investimentos;Banco Industrial do Brasil;6;5234
+68;5.234;99.00;Banco Industrial do Brasil 99% CDI por Guide Investimentos;FGC;CDB;9.60% a.a.;18/04/2023;Guide Investimentos;Banco Industrial do Brasil;6;5234
+69;5.233;100.00;Banco Industrial do Brasil 100% CDI por modalmais;FGC;CDB;9.69% a.a.;16/04/2023;modalmais;Banco Industrial do Brasil;6;5233
+70;5.568;97.00;Banco Inter 97% CDI por Banco Inter;FGC;LCI;11.55% a.a.;11/10/2023;Banco Inter;Banco Inter;12;5568
+71;5.512;106.00;Banco Inter 106% CDI por Banco Inter;FGC;CDB;10.41% a.a.;12/10/2023;Banco Inter;Banco Inter;12;5512
+72;5.487;100.00;Banco Inter 100% CDI por Banco Inter;FGC;CDB;9.82% a.a.;16/10/2023;Banco Inter;Banco Inter;12;5487
+73;6165;10000;Banco Inter 100% CDI por Banco Inter;FGC;LCI;11.26% a.a.;05/10/2024;Banco Inter;Banco Inter;24;6165
+74;6074;10800;Banco Inter 108% CDI por Banco Inter;FGC;CDB;10.41% a.a.;06/10/2024;Banco Inter;Banco Inter;24;6074
+75;5990;10000;Banco Inter 100% CDI por Banco Inter;FGC;CDB;9.64% a.a.;06/10/2024;Banco Inter;Banco Inter;24;5990
+76;5.242;12.58;Banco Inter Prefixado 12.58% por BTG Pactual;FGC;CDB;10.00% a.a.;17/04/2023;BTG Pactual;Banco Inter;6;5242
+77;5.237;102.00;Banco Inter 102% CDI por Banco Inter;FGC;CDB;9.89% a.a.;16/04/2023;Banco Inter;Banco Inter;6;5237
+78;5.234;100.00;Banco Inter 100% CDI por Banco Inter;FGC;CDB;9.69% a.a.;17/04/2023;Banco Inter;Banco Inter;6;5234
+79;5.225;96.00;Banco Inter 96% CDI por BTG Pactual;FGC;CDB;9.31% a.a.;17/04/2023;BTG Pactual;Banco Inter;6;5225
+80;5.588;14.38;Banco Master IPCA + 8.21% por Nu invest;FGC;CDB;11.86% a.a.;16/10/2023;Nu invest;Banco Master;12;5588
+81;5.533;110.00;Banco Master 110% CDI por Nu invest;FGC;CDB;10.81% a.a.;13/10/2023;Nu invest;Banco Master;12;5533
+82;5.518;106.00;Banco Master 106% CDI por Guide Investimentos;FGC;CDB;10.42% a.a.;17/10/2023;Guide Investimentos;Banco Master;12;5518
+83;5.487;100.00;Banco Master 100% CDI por Órama;FGC;CDB;9.82% a.a.;16/10/2023;Órama;Banco Master;12;5487
+84;5.487;100.00;Banco Master 100% CDI por Nu invest;FGC;CDB;9.82% a.a.;16/10/2023;Nu invest;Banco Master;12;5487
+85;5.467;96.00;Banco Master 96% CDI por Guide Investimentos;FGC;CDB;9.43% a.a.;16/10/2023;Guide Investimentos;Banco Master;12;5467
+86;6259;1382;Banco Master IPCA + 7.68% por Nu invest;FGC;CDB;11.86% a.a.;19/10/2024;Nu invest;Banco Master;24;6259
+87;6254;12500;Banco Master 125% CDI por Nu invest;FGC;CDB;12.07% a.a.;06/10/2024;Nu invest;Banco Master;24;6254
+88;6206;1357;Banco Master Prefixado 13.57% por Nu invest;FGC;CDB;11.63% a.a.;06/10/2024;Nu invest;Banco Master;24;6206
+89;6185;11600;Banco Master 116% CDI por Guide Investimentos;FGC;CDB;11.20% a.a.;19/10/2024;Guide Investimentos;Banco Master;24;6185
+90;5999;10000;Banco Master 100% CDI por  rama;FGC;CDB;9.64% a.a.;10/10/2024; rama;Banco Master;24;5999
+91;5990;10000;Banco Master 100% CDI por Nu invest;FGC;CDB;9.64% a.a.;06/10/2024;Nu invest;Banco Master;24;5990
+92;5970;9600;Banco Master 96% CDI por Guide Investimentos;FGC;CDB;9.25% a.a.;19/10/2024;Guide Investimentos;Banco Master;24;5970
+93;8874;12450;Banco Master 124.5% CDI por XP Investimentos;FGC;CDB;12.20% a.a.;15/10/2027;XP Investimentos;Banco Master;60;8874
+94;8605;1311;Banco Master IPCA + 7.01% por Nu invest;FGC;CDB;11.50% a.a.;16/10/2027;Nu invest;Banco Master;60;8605
+95;8562;11600;Banco Master 116% CDI por Guide Investimentos;FGC;CDB;11.34% a.a.;22/10/2027;Guide Investimentos;Banco Master;60;8562
+96;5.266;14.00;Banco Master Prefixado 14% por Nu invest;FGC;CDB;11.12% a.a.;16/04/2023;Nu invest;Banco Master;6;5266
+97;5.263;13.60;Banco Master Prefixado 13.6% por Guide Investimentos;FGC;CDB;10.81% a.a.;18/04/2023;Guide Investimentos;Banco Master;6;5263
+98;5.250;106.00;Banco Master 106% CDI por Guide Investimentos;FGC;CDB;10.27% a.a.;18/04/2023;Guide Investimentos;Banco Master;6;5250
+99;5.245;101.38;Banco Master CDI + 0.15% por Órama;FGC;CDB;9.83% a.a.;24/04/2023;Órama;Banco Master;6;5245
+100;5.244;105.00;Banco Master 105% CDI por Nu invest;FGC;CDB;10.18% a.a.;16/04/2023;Nu invest;Banco Master;6;5244
+101;5.234;100.00;Banco Master 100% CDI por Órama;FGC;CDB;9.69% a.a.;17/04/2023;Órama;Banco Master;6;5234
+102;5.234;100.00;Banco Master 100% CDI por Nu invest;FGC;CDB;9.69% a.a.;17/04/2023;Nu invest;Banco Master;6;5234
+103;5.225;96.00;Banco Master 96% CDI por Guide Investimentos;FGC;CDB;9.31% a.a.;17/04/2023;Guide Investimentos;Banco Master;6;5225
+104;6010;8600;Bancoob 86% CDI por XP Investimentos;FGC;LCA;9.68% a.a.;15/10/2024;XP Investimentos;Bancoob;24;6010
+105;5.578;98.00;Bari 98% CDI por Bari;FGC;LCI;11.67% a.a.;16/10/2023;Bari;Bari;12;5578
+106;5.560;115.00;Bari 115% CDI por Bari;FGC;CDB;11.30% a.a.;16/10/2023;Bari;Bari;12;5560
+107;5.536;110.00;Bari 110% CDI por Bari;FGC;CDB;10.81% a.a.;16/10/2023;Bari;Bari;12;5536
+108;5.511;105.00;Bari 105% CDI por Bari;FGC;CDB;10.32% a.a.;16/10/2023;Bari;Bari;12;5511
+109;6220;12000;Bari 120% CDI por Bari;FGC;CDB;11.58% a.a.;15/10/2024;Bari;Bari;24;6220
+110;6184;10000;Bari 100% CDI por Bari;FGC;LCI;11.26% a.a.;15/10/2024;Bari;Bari;24;6184
+111;6113;11000;Bari 110% CDI por Bari;FGC;CDB;10.61% a.a.;15/10/2024;Bari;Bari;24;6113
+112;6059;10500;Bari 105% CDI por Bari;FGC;CDB;10.12% a.a.;15/10/2024;Bari;Bari;24;6059
+113;5.277;95.00;Bari 95% CDI por Bari;FGC;LCI;11.58% a.a.;15/04/2023;Bari;Bari;6;5277
+114;5.257;110.00;Bari 110% CDI por Bari;FGC;CDB;10.66% a.a.;17/04/2023;Bari;Bari;6;5257
+115;5.246;105.00;Bari 105% CDI por Bari;FGC;CDB;10.18% a.a.;17/04/2023;Bari;Bari;6;5246
+116;5.303;11.70;BDMG Prefixado 11.7% por Nu invest;FGC;LCA;11.70% a.a.;02/05/2023;Nu invest;BDMG;6;5303
+117;5.530;13.08;BMG Prefixado 13.08% por Nova Futura Investimentos;FGC;CDB;10.78% a.a.;12/10/2023;Nova Futura Investimentos;BMG;12;5530
+118;5.522;12.88;BMG Prefixado 12.88% por modalmais;FGC;CDB;10.62% a.a.;12/10/2023;modalmais;BMG;12;5522
+119;5.518;106.00;BMG 106% CDI por Guide Investimentos;FGC;CDB;10.42% a.a.;17/10/2023;Guide Investimentos;BMG;12;5518
+120;5.517;107.00;BMG 107% CDI por Nu invest;FGC;CDB;10.51% a.a.;12/10/2023;Nu invest;BMG;12;5517
+121;5.517;107.00;BMG 107% CDI por modalmais;FGC;CDB;10.51% a.a.;12/10/2023;modalmais;BMG;12;5517
+122;5.517;107.00;BMG 107% CDI por Nova Futura Investimentos;FGC;CDB;10.51% a.a.;12/10/2023;Nova Futura Investimentos;BMG;12;5517
+123;5.510;105.63;BMG CDI + 0.6% por Nova Futura Investimentos;FGC;CDB;10.38% a.a.;12/10/2023;Nova Futura Investimentos;BMG;12;5510
+124;6265;1400;BMG IPCA + 7.85% por  rama;FGC;CDB;12.01% a.a.;14/10/2024; rama;BMG;24;6265
+125;6244;1367;BMG IPCA + 7.54% por Nova Futura Investimentos;FGC;CDB;11.73% a.a.;20/10/2024;Nova Futura Investimentos;BMG;24;6244
+126;6211;1362;BMG Prefixado 13.62% por Nova Futura Investimentos;FGC;CDB;11.67% a.a.;06/10/2024;Nova Futura Investimentos;BMG;24;6211
+127;6192;1342;BMG Prefixado 13.42% por modalmais;FGC;CDB;11.50% a.a.;06/10/2024;modalmais;BMG;24;6192
+128;6107;10900;BMG 109% CDI por Guide Investimentos;FGC;CDB;10.51% a.a.;17/10/2024;Guide Investimentos;BMG;24;6107
+129;6095;11000;BMG 110% CDI por Nova Futura Investimentos;FGC;CDB;10.61% a.a.;06/10/2024;Nova Futura Investimentos;BMG;24;6095
+130;6095;11000;BMG 110% CDI por modalmais;FGC;CDB;10.61% a.a.;06/10/2024;modalmais;BMG;24;6095
+131;6045;10523;BMG CDI + 0.53% por Nova Futura Investimentos;FGC;CDB;10.15% a.a.;06/10/2024;Nova Futura Investimentos;BMG;24;6045
+132;8442;1260;BMG IPCA + 6.53% por Nova Futura Investimentos;FGC;CDB;11.05% a.a.;20/10/2027;Nova Futura Investimentos;BMG;60;8442
+133;8363;11100;BMG 111% CDI por Guide Investimentos;FGC;CDB;10.84% a.a.;20/10/2027;Guide Investimentos;BMG;60;8363
+134;5.292;14.17;BMG IPCA + 8.1% por Nu invest;FGC;CDB;11.26% a.a.;02/05/2023;Nu invest;BMG;6;5292
+135;5.268;13.54;BMG Prefixado 13.54% por Órama;FGC;CDB;10.76% a.a.;24/04/2023;Órama;BMG;6;5268
+136;5.259;13.52;BMG Prefixado 13.52% por Ágora Investimentos;FGC;CDB;10.74% a.a.;17/04/2023;Ágora Investimentos;BMG;6;5259
+137;5.258;13.44;BMG Prefixado 13.44% por BTG Pactual;FGC;CDB;10.68% a.a.;17/04/2023;BTG Pactual;BMG;6;5258
+138;5.257;13.29;BMG Prefixado 13.29% por Guide Investimentos;FGC;CDB;10.56% a.a.;18/04/2023;Guide Investimentos;BMG;6;5257
+139;5.255;13.39;BMG Prefixado 13.39% por Nova Futura Investimentos;FGC;CDB;10.64% a.a.;16/04/2023;Nova Futura Investimentos;BMG;6;5255
+140;5.252;104.04;BMG CDI + 0.44% por Órama;FGC;CDB;10.09% a.a.;24/04/2023;Órama;BMG;6;5252
+141;5.251;13.19;BMG Prefixado 13.19% por modalmais;FGC;CDB;10.48% a.a.;16/04/2023;modalmais;BMG;6;5251
+142;5.245;105.61;BMG CDI + 0.61% por Nova Futura Investimentos;FGC;CDB;10.23% a.a.;16/04/2023;Nova Futura Investimentos;BMG;6;5245
+143;5.241;103.00;BMG 103% CDI por Ágora Investimentos;FGC;CDB;9.98% a.a.;17/04/2023;Ágora Investimentos;BMG;6;5241
+144;5.241;103.00;BMG 103% CDI por BTG Pactual;FGC;CDB;9.98% a.a.;17/04/2023;BTG Pactual;BMG;6;5241
+145;5.239;101.00;BMG 101% CDI por Guide Investimentos;FGC;CDB;9.79% a.a.;18/04/2023;Guide Investimentos;BMG;6;5239
+146;5.237;102.00;BMG 102% CDI por Nova Futura Investimentos;FGC;CDB;9.89% a.a.;16/04/2023;Nova Futura Investimentos;BMG;6;5237
+147;5.237;102.00;BMG 102% CDI por modalmais;FGC;CDB;9.89% a.a.;16/04/2023;modalmais;BMG;6;5237
+148;5.548;13.41;BR Partners Prefixado 13.41% por modalmais;FGC;CDB;11.06% a.a.;16/10/2023;modalmais;BR Partners;12;5548
+149;5.506;104.00;BR Partners 104% CDI por modalmais;FGC;CDB;10.22% a.a.;16/10/2023;modalmais;BR Partners;12;5506
+150;5.504;103.00;BR Partners 103% CDI por Guide Investimentos;FGC;CDB;10.12% a.a.;17/10/2023;Guide Investimentos;BR Partners;12;5504
+151;5.492;12.04;BR Partners IPCA + 6% por modalmais;FGC;CDB;9.93% a.a.;16/10/2023;modalmais;BR Partners;12;5492
+152;6093;1236;BR Partners Prefixado 12.36% por modalmais;FGC;CDB;10.59% a.a.;06/10/2024;modalmais;BR Partners;24;6093
+153;6070;1193;BR Partners IPCA + 5.89% por modalmais;FGC;CDB;10.22% a.a.;15/10/2024;modalmais;BR Partners;24;6070
+154;6053;10400;BR Partners 104% CDI por Guide Investimentos;FGC;CDB;10.03% a.a.;17/10/2024;Guide Investimentos;BR Partners;24;6053
+155;6043;10500;BR Partners 105% CDI por modalmais;FGC;CDB;10.12% a.a.;06/10/2024;modalmais;BR Partners;24;6043
+156;5.492;100.25;Bradesco 100.25% CDI por Ágora Investimentos;FGC;CDB;9.85% a.a.;18/10/2023;Ágora Investimentos;Bradesco;12;5492
+157;5.475;97.50;Bradesco 97.5% CDI por Ágora Investimentos;FGC;CDB;9.58% a.a.;16/10/2023;Ágora Investimentos;Bradesco;12;5475
+158;6015;10025;Bradesco 100.25% CDI por  gora Investimentos;FGC;CDB;9.66% a.a.;18/10/2024; gora Investimentos;Bradesco;24;6015
+159;5982;9750;Bradesco 97.5% CDI por  gora Investimentos;FGC;CDB;9.40% a.a.;16/10/2024; gora Investimentos;Bradesco;24;5982
+160;5.273;93.00;Bradesco 93% CDI por Ágora Investimentos;FGC;LCI;11.34% a.a.;17/04/2023;Ágora Investimentos;Bradesco;6;5273
+161;5.235;100.25;Bradesco 100.25% CDI por Ágora Investimentos;FGC;CDB;9.72% a.a.;17/04/2023;Ágora Investimentos;Bradesco;6;5235
+162;5.229;97.50;Bradesco 97.5% CDI por Ágora Investimentos;FGC;CDB;9.45% a.a.;17/04/2023;Ágora Investimentos;Bradesco;6;5229
+163;5.604;14.90;BRK Financeira IPCA + 8.7% por Nova Futura Investimentos;FGC;CDB;12.29% a.a.;12/10/2023;Nova Futura Investimentos;BRK Financeira;12;5604
+164;5.575;119.15;BRK Financeira CDI + 2.04% por Nova Futura Investimentos;FGC;CDB;11.71% a.a.;12/10/2023;Nova Futura Investimentos;BRK Financeira;12;5575
+165;5.565;117.00;BRK Financeira 117% CDI por Nova Futura Investimentos;FGC;CDB;11.49% a.a.;12/10/2023;Nova Futura Investimentos;BRK Financeira;12;5565
+166;5.565;116.00;BRK Financeira 116% CDI por Órama;FGC;CDB;11.40% a.a.;16/10/2023;Órama;BRK Financeira;12;5565
+167;5.521;107.00;BRK Financeira 107% CDI por Órama;FGC;CDB;10.51% a.a.;16/10/2023;Órama;BRK Financeira;12;5521
+168;5.516;106.00;BRK Financeira 106% CDI por Nova Futura Investimentos;FGC;CDB;10.41% a.a.;16/10/2023;Nova Futura Investimentos;BRK Financeira;12;5516
+169;6315;1471;BRK Financeira IPCA + 8.52% por Nova Futura Investimentos;FGC;CDB;12.62% a.a.;06/10/2024;Nova Futura Investimentos;BRK Financeira;24;6315
+170;6314;1470;BRK Financeira Prefixado 14.7% por Nova Futura Investimentos;FGC;CDB;12.61% a.a.;06/10/2024;Nova Futura Investimentos;BRK Financeira;24;6314
+171;6212;12104;BRK Financeira CDI + 2.13% por Nova Futura Investimentos;FGC;CDB;11.68% a.a.;06/10/2024;Nova Futura Investimentos;BRK Financeira;24;6212
+172;6201;11900;BRK Financeira 119% CDI por  rama;FGC;CDB;11.49% a.a.;10/10/2024; rama;BRK Financeira;24;6201
+173;6201;12000;BRK Financeira 120% CDI por Nova Futura Investimentos;FGC;CDB;11.58% a.a.;06/10/2024;Nova Futura Investimentos;BRK Financeira;24;6201
+174;6073;10700;BRK Financeira 107% CDI por  rama;FGC;CDB;10.32% a.a.;10/10/2024; rama;BRK Financeira;24;6073
+175;6053;10600;BRK Financeira 106% CDI por Nova Futura Investimentos;FGC;CDB;10.22% a.a.;06/10/2024;Nova Futura Investimentos;BRK Financeira;24;6053
+176;5.288;14.56;BRK Financeira Prefixado 14.56% por Órama;FGC;CDB;11.57% a.a.;24/04/2023;Órama;BRK Financeira;6;5288
+177;5.274;14.46;BRK Financeira Prefixado 14.46% por Nova Futura Investimentos;FGC;CDB;11.48% a.a.;16/04/2023;Nova Futura Investimentos;BRK Financeira;6;5274
+178;5.265;109.66;BRK Financeira CDI + 1.05% por Órama;FGC;CDB;10.63% a.a.;24/04/2023;Órama;BRK Financeira;6;5265
+179;5.257;107.00;BRK Financeira 107% CDI por Órama;FGC;CDB;10.37% a.a.;20/04/2023;Órama;BRK Financeira;6;5257
+180;5.252;108.74;BRK Financeira CDI + 0.95% por Nova Futura Investimentos;FGC;CDB;10.54% a.a.;16/04/2023;Nova Futura Investimentos;BRK Financeira;6;5252
+181;5.251;108.00;BRK Financeira 108% CDI por Nova Futura Investimentos;FGC;CDB;10.46% a.a.;16/04/2023;Nova Futura Investimentos;BRK Financeira;6;5251
+182;5.250;107.00;BRK Financeira 107% CDI por Órama;FGC;CDB;10.37% a.a.;17/04/2023;Órama;BRK Financeira;6;5250
+183;5.248;106.00;BRK Financeira 106% CDI por Nova Futura Investimentos;FGC;CDB;10.27% a.a.;17/04/2023;Nova Futura Investimentos;BRK Financeira;6;5248
+184;5.512;12.59;BS2 Prefixado 12.59% por Daycoval;FGC;CDB;10.38% a.a.;14/10/2023;Daycoval;BS2;12;5512
+185;5.509;105.00;BS2 105% CDI por Daycoval;FGC;CDB;10.32% a.a.;14/10/2023;Daycoval;BS2;12;5509
+186;6053;10400;BS2 104% CDI por Guide Investimentos;FGC;CDB;10.03% a.a.;17/10/2024;Guide Investimentos;BS2;24;6053
+187;6043;10500;BS2 105% CDI por Nova Futura Investimentos;FGC;CDB;10.12% a.a.;06/10/2024;Nova Futura Investimentos;BS2;24;6043
+188;5936;9400;BS2 94% CDI por  rama;FGC;CDB;9.06% a.a.;10/10/2024; rama;BS2;24;5936
+189;5907;9200;BS2 92% CDI por Nova Futura Investimentos;FGC;CDB;8.86% a.a.;06/10/2024;Nova Futura Investimentos;BS2;24;5907
+190;5.239;103.00;BS2 103% CDI por Daycoval;FGC;CDB;9.98% a.a.;16/04/2023;Daycoval;BS2;6;5239
+191;5.228;11.97;BS2 Prefixado 11.97% por Daycoval;FGC;CDB;9.52% a.a.;16/04/2023;Daycoval;BS2;6;5228
+192;5.221;94.00;BS2 94% CDI por Órama;FGC;CDB;9.11% a.a.;17/04/2023;Órama;BS2;6;5221
+193;5.216;92.00;BS2 92% CDI por Nova Futura Investimentos;FGC;CDB;8.92% a.a.;17/04/2023;Nova Futura Investimentos;BS2;6;5216
+194;5.214;91.00;BS2 91% CDI por Guide Investimentos;FGC;CDB;8.83% a.a.;17/04/2023;Guide Investimentos;BS2;6;5214
+195;5.589;14.47;BTG Pactual IPCA + 8.3% por Nu invest;FGC;CDB;11.94% a.a.;15/10/2023;Nu invest;BTG Pactual;12;5589
+196;5.568;11.52;BTG Pactual IPCA + 5.5% por Nu invest;FGC;LCA;11.52% a.a.;15/10/2023;Nu invest;BTG Pactual;12;5568
+197;5.567;13.87;BTG Pactual IPCA + 7.73% por Nova Futura Investimentos;FGC;CDB;11.44% a.a.;16/10/2023;Nova Futura Investimentos;BTG Pactual;12;5567
+198;5.556;11.22;BTG Pactual IPCA + 5.22% por Nova Futura Investimentos;FGC;LCA;11.22% a.a.;16/10/2023;Nova Futura Investimentos;BTG Pactual;12;5556
+199;5.545;13.34;BTG Pactual IPCA + 7.23% por modalmais;FGC;CDB;11.01% a.a.;16/10/2023;modalmais;BTG Pactual;12;5545
+200;5.539;13.20;BTG Pactual Prefixado 13.2% por Nova Futura Investimentos;FGC;CDB;10.88% a.a.;16/10/2023;Nova Futura Investimentos;BTG Pactual;12;5539
+201;5.531;90.00;BTG Pactual 90% CDI por Nova Futura Investimentos;FGC;LCA;10.72% a.a.;16/10/2023;Nova Futura Investimentos;BTG Pactual;12;5531
+202;5.531;10.71;BTG Pactual Prefixado 10.71% por Nova Futura Investimentos;FGC;LCA;10.71% a.a.;16/10/2023;Nova Futura Investimentos;BTG Pactual;12;5531
+203;5.530;10.69;BTG Pactual IPCA + 4.72% por modalmais;FGC;LCA;10.69% a.a.;16/10/2023;modalmais;BTG Pactual;12;5530
+204;5.514;104.75;BTG Pactual 104.75% CDI por BTG Pactual;FGC;CDB;10.29% a.a.;18/10/2023;BTG Pactual;BTG Pactual;12;5514
+205;5.503;102.50;BTG Pactual 102.5% CDI por BTG Pactual;FGC;CDB;10.07% a.a.;18/10/2023;BTG Pactual;BTG Pactual;12;5503
+206;5.500;101.75;BTG Pactual 101.75% CDI por BTG Pactual;FGC;CDB;10.00% a.a.;18/10/2023;BTG Pactual;BTG Pactual;12;5500
+207;5.491;101.75;BTG Pactual 101.75% CDI por Nova Futura Investimentos;FGC;CDB;10.00% a.a.;12/10/2023;Nova Futura Investimentos;BTG Pactual;12;5491
+208;5.474;9.60;BTG Pactual Prefixado 9.6% por Daycoval;FGC;LCA;9.60% a.a.;14/10/2023;Daycoval;BTG Pactual;12;5474
+209;6189;1123;BTG Pactual IPCA + 5.23% por Nova Futura Investimentos;FGC;LCA;11.23% a.a.;18/10/2024;Nova Futura Investimentos;BTG Pactual;24;6189
+210;6160;1279;BTG Pactual IPCA + 6.71% por Nova Futura Investimentos;FGC;CDB;10.97% a.a.;18/10/2024;Nova Futura Investimentos;BTG Pactual;24;6160
+211;6142;1269;BTG Pactual IPCA + 6.61% por modalmais;FGC;CDB;10.88% a.a.;15/10/2024;modalmais;BTG Pactual;24;6142
+212;6122;1070;BTG Pactual IPCA + 4.73% por modalmais;FGC;LCA;10.70% a.a.;15/10/2024;modalmais;BTG Pactual;24;6122
+213;6104;1047;BTG Pactual Prefixado 10.47% por Nova Futura Investimentos;FGC;LCA;10.47% a.a.;18/10/2024;Nova Futura Investimentos;BTG Pactual;24;6104
+214;6090;1057;BTG Pactual Prefixado 10.57% por Daycoval;FGC;LCA;10.57% a.a.;06/10/2024;Daycoval;BTG Pactual;24;6090
+215;6086;1203;BTG Pactual Prefixado 12.03% por Nova Futura Investimentos;FGC;CDB;10.30% a.a.;18/10/2024;Nova Futura Investimentos;BTG Pactual;24;6086
+216;6079;9100;BTG Pactual 91% CDI por Nova Futura Investimentos;FGC;LCA;10.24% a.a.;18/10/2024;Nova Futura Investimentos;BTG Pactual;24;6079
+217;6072;10600;BTG Pactual 106% CDI por BTG Pactual;FGC;CDB;10.22% a.a.;16/10/2024;BTG Pactual;BTG Pactual;24;6072
+218;6058;1027;BTG Pactual Prefixado 10.27% por modalmais;FGC;LCA;10.27% a.a.;06/10/2024;modalmais;BTG Pactual;24;6058
+219;6045;10300;BTG Pactual 103% CDI por Nova Futura Investimentos;FGC;CDB;9.93% a.a.;18/10/2024;Nova Futura Investimentos;BTG Pactual;24;6045
+220;8197;1191;BTG Pactual IPCA + 5.87% por Nova Futura Investimentos;FGC;CDB;10.42% a.a.;16/10/2027;Nova Futura Investimentos;BTG Pactual;60;8197
+221;8179;1037;BTG Pactual IPCA + 4.42% por Nova Futura Investimentos;FGC;LCA;10.37% a.a.;16/10/2027;Nova Futura Investimentos;BTG Pactual;60;8179
+222;8162;1180;BTG Pactual IPCA + 5.77% por modalmais;FGC;CDB;10.33% a.a.;16/10/2027;modalmais;BTG Pactual;60;8162
+223;8159;10579;BTG Pactual 105.79% CDI por BTG Pactual;FGC;CDB;10.32% a.a.;16/10/2027;BTG Pactual;BTG Pactual;60;8159
+224;8130;1171;BTG Pactual Prefixado 11.71% por Nova Futura Investimentos;FGC;CDB;10.24% a.a.;16/10/2027;Nova Futura Investimentos;BTG Pactual;60;8130
+225;8106;1018;BTG Pactual Prefixado 10.18% por Nova Futura Investimentos;FGC;LCA;10.18% a.a.;16/10/2027;Nova Futura Investimentos;BTG Pactual;60;8106
+226;8079;9064;BTG Pactual 90.64% CDI por Nova Futura Investimentos;FGC;LCA;10.10% a.a.;16/10/2027;Nova Futura Investimentos;BTG Pactual;60;8079
+227;8049;10279;BTG Pactual 102.79% CDI por Nova Futura Investimentos;FGC;CDB;10.02% a.a.;16/10/2027;Nova Futura Investimentos;BTG Pactual;60;8049
+228;7985;984;BTG Pactual IPCA + 3.92% por modalmais;FGC;LCA;9.84% a.a.;16/10/2027;modalmais;BTG Pactual;60;7985
+229;5.289;12.01;BTG Pactual Prefixado 12.01% por BTG Pactual;FGC;LCA;12.01% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5289
+230;5.289;12.01;BTG Pactual Prefixado 12.01% por BTG Pactual;FGC;LCI;12.01% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5289
+231;5.286;11.71;BTG Pactual Prefixado 11.71% por Nova Futura Investimentos;FGC;LCA;11.71% a.a.;19/04/2023;Nova Futura Investimentos;BTG Pactual;6;5286
+232;5.285;11.84;BTG Pactual Prefixado 11.84% por Ágora Investimentos;FGC;LCA;11.84% a.a.;17/04/2023;Ágora Investimentos;BTG Pactual;6;5285
+233;5.278;11.56;BTG Pactual Prefixado 11.56% por Nu invest;FGC;LCA;11.56% a.a.;17/04/2023;Nu invest;BTG Pactual;6;5278
+234;5.268;14.02;BTG Pactual Prefixado 14.02% por BTG Pactual;FGC;CDB;11.14% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5268
+235;5.267;91.00;BTG Pactual 91% CDI por BTG Pactual;FGC;LCI;11.09% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5267
+236;5.267;13.72;BTG Pactual Prefixado 13.72% por Nova Futura Investimentos;FGC;CDB;10.90% a.a.;19/04/2023;Nova Futura Investimentos;BTG Pactual;6;5267
+237;5.265;13.85;BTG Pactual Prefixado 13.85% por Ágora Investimentos;FGC;CDB;11.00% a.a.;17/04/2023;Ágora Investimentos;BTG Pactual;6;5265
+238;5.263;88.00;BTG Pactual 88% CDI por Nova Futura Investimentos;FGC;LCA;10.73% a.a.;19/04/2023;Nova Futura Investimentos;BTG Pactual;6;5263
+239;5.262;89.00;BTG Pactual 89% CDI por Ágora Investimentos;FGC;LCA;10.85% a.a.;17/04/2023;Ágora Investimentos;BTG Pactual;6;5262
+240;5.259;88.00;BTG Pactual 88% CDI por Nu invest;FGC;LCA;10.73% a.a.;17/04/2023;Nu invest;BTG Pactual;6;5259
+241;5.245;104.50;BTG Pactual 104.5% CDI por BTG Pactual;FGC;CDB;10.13% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5245
+242;5.242;103.50;BTG Pactual 103.5% CDI por BTG Pactual;FGC;CDB;10.03% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5242
+243;5.242;103.25;BTG Pactual 103.25% CDI por BTG Pactual;FGC;CDB;10.01% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5242
+244;5.241;103.00;BTG Pactual 103% CDI por BTG Pactual;FGC;CDB;9.98% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5241
+245;5.241;102.75;BTG Pactual 102.75% CDI por BTG Pactual;FGC;CDB;9.96% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5241
+246;5.240;102.50;BTG Pactual 102.5% CDI por BTG Pactual;FGC;CDB;9.93% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5240
+247;5.240;102.50;BTG Pactual 102.5% CDI por BTG Pactual;FGC;CDB;9.93% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5240
+248;5.240;102.50;BTG Pactual 102.5% CDI por BTG Pactual;FGC;CDB;9.93% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5240
+249;5.240;102.50;BTG Pactual 102.5% CDI por Ágora Investimentos;FGC;CDB;9.93% a.a.;17/04/2023;Ágora Investimentos;BTG Pactual;6;5240
+250;5.240;102.25;BTG Pactual 102.25% CDI por BTG Pactual;FGC;CDB;9.91% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5240
+251;5.239;102.00;BTG Pactual 102% CDI por BTG Pactual;FGC;CDB;9.89% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5239
+252;5.239;102.00;BTG Pactual 102% CDI por BTG Pactual;FGC;CDB;9.89% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5239
+253;5.238;101.75;BTG Pactual 101.75% CDI por BTG Pactual;FGC;CDB;9.86% a.a.;17/04/2023;BTG Pactual;BTG Pactual;6;5238
+254;5.229;101.50;BTG Pactual 101.5% CDI por Nova Futura Investimentos;FGC;CDB;9.52% a.a.;15/04/2023;Nova Futura Investimentos;BTG Pactual;6;5229
+255;5.546;13.37;BV Prefixado 13.37% por Nova Futura Investimentos;FGC;CDB;11.02% a.a.;16/10/2023;Nova Futura Investimentos;BV;12;5546
+256;5.539;13.13;BV IPCA + 7.03% por Nova Futura Investimentos;FGC;CDB;10.83% a.a.;17/10/2023;Nova Futura Investimentos;BV;12;5539
+257;5.481;98.70;BV 98.7% CDI por Nova Futura Investimentos;FGC;CDB;9.70% a.a.;16/10/2023;Nova Futura Investimentos;BV;12;5481
+258;6102;1225;BV Prefixado 12.25% por Nova Futura Investimentos;FGC;CDB;10.49% a.a.;16/10/2024;Nova Futura Investimentos;BV;24;6102
+259;6066;1181;BV IPCA + 5.78% por Nova Futura Investimentos;FGC;CDB;10.12% a.a.;18/10/2024;Nova Futura Investimentos;BV;24;6066
+260;6014;10051;BV 100.51% CDI por Nova Futura Investimentos;FGC;CDB;9.69% a.a.;16/10/2024;Nova Futura Investimentos;BV;24;6014
+261;5.556;13.60;C6 Bank Prefixado 13.6% por Nova Futura Investimentos;FGC;CDB;11.21% a.a.;16/10/2023;Nova Futura Investimentos;C6 Bank;12;5556
+262;5.548;13.40;C6 Bank Prefixado 13.4% por modalmais;FGC;CDB;11.05% a.a.;16/10/2023;modalmais;C6 Bank;12;5548
+263;5.511;12.55;C6 Bank Prefixado 12.55% por Daycoval;FGC;CDB;10.35% a.a.;14/10/2023;Daycoval;C6 Bank;12;5511
+264;5.506;104.00;C6 Bank 104% CDI por Nova Futura Investimentos;FGC;CDB;10.22% a.a.;16/10/2023;Nova Futura Investimentos;C6 Bank;12;5506
+265;5.506;104.00;C6 Bank 104% CDI por modalmais;FGC;CDB;10.22% a.a.;16/10/2023;modalmais;C6 Bank;12;5506
+266;5.504;103.00;C6 Bank 103% CDI por Guide Investimentos;FGC;CDB;10.12% a.a.;17/10/2023;Guide Investimentos;C6 Bank;12;5504
+267;5.495;102.00;C6 Bank 102% CDI por Daycoval;FGC;CDB;10.02% a.a.;14/10/2023;Daycoval;C6 Bank;12;5495
+268;6133;1260;C6 Bank Prefixado 12.6% por Nova Futura Investimentos;FGC;CDB;10.80% a.a.;15/10/2024;Nova Futura Investimentos;C6 Bank;24;6133
+269;6115;1260;C6 Bank Prefixado 12.6% por Daycoval;FGC;CDB;10.79% a.a.;06/10/2024;Daycoval;C6 Bank;24;6115
+270;6096;1240;C6 Bank Prefixado 12.4% por modalmais;FGC;CDB;10.62% a.a.;06/10/2024;modalmais;C6 Bank;24;6096
+271;6091;10800;C6 Bank 108% CDI por Nova Futura Investimentos;FGC;CDB;10.42% a.a.;15/10/2024;Nova Futura Investimentos;C6 Bank;24;6091
+272;6088;10700;C6 Bank 107% CDI por Guide Investimentos;FGC;CDB;10.32% a.a.;19/10/2024;Guide Investimentos;C6 Bank;24;6088
+273;6074;10800;C6 Bank 108% CDI por modalmais;FGC;CDB;10.41% a.a.;06/10/2024;modalmais;C6 Bank;24;6074
+274;6064;10700;C6 Bank 107% CDI por Daycoval;FGC;CDB;10.32% a.a.;06/10/2024;Daycoval;C6 Bank;24;6064
+275;5.278;14.05;C6 Bank Prefixado 14.05% por Órama;FGC;CDB;11.16% a.a.;24/04/2023;Órama;C6 Bank;6;5278
+276;5.271;13.90;C6 Bank Prefixado 13.9% por Guide Investimentos;FGC;CDB;11.04% a.a.;19/04/2023;Guide Investimentos;C6 Bank;6;5271
+277;5.271;14.13;C6 Bank Prefixado 14.13% por Ágora Investimentos;FGC;CDB;11.22% a.a.;17/04/2023;Ágora Investimentos;C6 Bank;6;5271
+278;5.268;14.00;C6 Bank Prefixado 14% por BTG Pactual;FGC;CDB;11.12% a.a.;17/04/2023;BTG Pactual;C6 Bank;6;5268
+279;5.266;14.00;C6 Bank Prefixado 14% por Nova Futura Investimentos;FGC;CDB;11.12% a.a.;16/04/2023;Nova Futura Investimentos;C6 Bank;6;5266
+280;5.247;102.00;C6 Bank 102% CDI por Órama;FGC;CDB;9.89% a.a.;24/04/2023;Órama;C6 Bank;6;5247
+281;5.239;102.00;C6 Bank 102% CDI por BTG Pactual;FGC;CDB;9.89% a.a.;17/04/2023;BTG Pactual;C6 Bank;6;5239
+282;5.239;102.00;C6 Bank 102% CDI por Ágora Investimentos;FGC;CDB;9.89% a.a.;17/04/2023;Ágora Investimentos;C6 Bank;6;5239
+283;5.239;101.00;C6 Bank 101% CDI por Guide Investimentos;FGC;CDB;9.79% a.a.;18/04/2023;Guide Investimentos;C6 Bank;6;5239
+284;5.237;102.00;C6 Bank 102% CDI por Nova Futura Investimentos;FGC;CDB;9.89% a.a.;16/04/2023;Nova Futura Investimentos;C6 Bank;6;5237
+285;5.237;102.00;C6 Bank 102% CDI por modalmais;FGC;CDB;9.89% a.a.;16/04/2023;modalmais;C6 Bank;6;5237
+286;5.235;101.00;C6 Bank 101% CDI por Daycoval;FGC;CDB;9.79% a.a.;16/04/2023;Daycoval;C6 Bank;6;5235
+287;5.230;12.05;C6 Bank Prefixado 12.05% por Daycoval;FGC;CDB;9.58% a.a.;16/04/2023;Daycoval;C6 Bank;6;5230
+288;5957;9600;Caixa Geral 96% CDI por  rama;FGC;CDB;9.25% a.a.;10/10/2024; rama;Caixa Geral;24;5957
+289;5.225;96.00;Caixa Geral 96% CDI por Órama;FGC;CDB;9.31% a.a.;17/04/2023;Órama;Caixa Geral;6;5225
+290;5.528;109.00;Caruana Financeira 109% CDI por Daycoval;FGC;CDB;10.71% a.a.;14/10/2023;Daycoval;Caruana Financeira;12;5528
+291;5.511;105.00;Caruana Financeira 105% CDI por Nova Futura Investimentos;FGC;CDB;10.32% a.a.;16/10/2023;Nova Futura Investimentos;Caruana Financeira;12;5511
+292;5.511;105.00;Caruana Financeira 105% CDI por modalmais;FGC;CDB;10.32% a.a.;16/10/2023;modalmais;Caruana Financeira;12;5511
+293;6114;1240;Caruana Financeira Prefixado 12.4% por Nova Futura Investimentos;FGC;CDB;10.62% a.a.;15/10/2024;Nova Futura Investimentos;Caruana Financeira;24;6114
+294;6113;11000;Caruana Financeira 110% CDI por modalmais;FGC;CDB;10.61% a.a.;15/10/2024;modalmais;Caruana Financeira;24;6113
+295;6113;11000;Caruana Financeira 110% CDI por Nova Futura Investimentos;FGC;CDB;10.61% a.a.;15/10/2024;Nova Futura Investimentos;Caruana Financeira;24;6113
+296;6106;11100;Caruana Financeira 111% CDI por Daycoval;FGC;CDB;10.71% a.a.;06/10/2024;Daycoval;Caruana Financeira;24;6106
+297;6096;1240;Caruana Financeira Prefixado 12.4% por Daycoval;FGC;CDB;10.62% a.a.;06/10/2024;Daycoval;Caruana Financeira;24;6096
+298;6095;1220;Caruana Financeira Prefixado 12.2% por modalmais;FGC;CDB;10.45% a.a.;15/10/2024;modalmais;Caruana Financeira;24;6095
+299;8620;11800;Caruana Financeira 118% CDI por modalmais;FGC;CDB;11.54% a.a.;15/10/2027;modalmais;Caruana Financeira;60;8620
+300;8620;11800;Caruana Financeira 118% CDI por Nova Futura Investimentos;FGC;CDB;11.54% a.a.;15/10/2027;Nova Futura Investimentos;Caruana Financeira;60;8620
+301;8581;11700;Caruana Financeira 117% CDI por Nu invest;FGC;CDB;11.44% a.a.;17/10/2027;Nu invest;Caruana Financeira;60;8581
+302;8377;1245;Caruana Financeira Prefixado 12.45% por Nova Futura Investimentos;FGC;CDB;10.91% a.a.;15/10/2027;Nova Futura Investimentos;Caruana Financeira;60;8377
+303;8127;1170;Caruana Financeira Prefixado 11.7% por modalmais;FGC;CDB;10.23% a.a.;15/10/2027;modalmais;Caruana Financeira;60;8127
+304;5.239;103.00;Caruana Financeira 103% CDI por Daycoval;FGC;CDB;9.98% a.a.;16/04/2023;Daycoval;Caruana Financeira;6;5239
+305;5.237;101.00;Caruana Financeira 101% CDI por Ágora Investimentos;FGC;CDB;9.79% a.a.;17/04/2023;Ágora Investimentos;Caruana Financeira;6;5237
+306;5.234;100.00;Caruana Financeira 100% CDI por BTG Pactual;FGC;CDB;9.69% a.a.;17/04/2023;BTG Pactual;Caruana Financeira;6;5234
+307;5.233;100.00;Caruana Financeira 100% CDI por modalmais;FGC;CDB;9.69% a.a.;16/04/2023;modalmais;Caruana Financeira;6;5233
+308;5.233;100.00;Caruana Financeira 100% CDI por Nova Futura Investimentos;FGC;CDB;9.69% a.a.;16/04/2023;Nova Futura Investimentos;Caruana Financeira;6;5233
+309;5.205;10.63;Caruana Financeira Prefixado 10.63% por Ágora Investimentos;FGC;CDB;8.46% a.a.;17/04/2023;Ágora Investimentos;Caruana Financeira;6;5205
+310;6180;11700;Credipar Financeira 117% CDI por  rama;FGC;LC;11.29% a.a.;10/10/2024; rama;Credipar Financeira;24;6180
+311;5.592;12.00;Daycoval Prefixado 12% por Daycoval;FGC;LCA;12.00% a.a.;14/10/2023;Daycoval;Daycoval;12;5592
+312;5.511;105.00;Daycoval 105% CDI por Daycoval;FGC;CDB;10.32% a.a.;16/10/2023;Daycoval;Daycoval;12;5511
+313;5.502;103.00;Daycoval 103% CDI por Daycoval;FGC;CDB;10.12% a.a.;16/10/2023;Daycoval;Daycoval;12;5502
+314;5.497;102.00;Daycoval 102% CDI por Daycoval;FGC;CDB;10.02% a.a.;16/10/2023;Daycoval;Daycoval;12;5497
+315;5.496;106.00;Daycoval 106% CDI por Daycoval;FGC;CDB;10.10% a.a.;11/10/2023;Daycoval;Daycoval;12;5496
+316;5.492;101.00;Daycoval 101% CDI por Daycoval;FGC;CDB;9.92% a.a.;16/10/2023;Daycoval;Daycoval;12;5492
+317;5.488;99.00;Daycoval 99% CDI por Guide Investimentos;FGC;CDB;9.73% a.a.;19/10/2023;Guide Investimentos;Daycoval;12;5488
+318;5.483;12.30;Daycoval Prefixado 12.3% por Daycoval;FGC;CDB;9.83% a.a.;11/10/2023;Daycoval;Daycoval;12;5483
+319;6075;1251;Daycoval IPCA + 6.44% por Daycoval;FGC;CDB;10.42% a.a.;05/10/2024;Daycoval;Daycoval;24;6075
+320;6043;10500;Daycoval 105% CDI por Daycoval;FGC;CDB;10.12% a.a.;06/10/2024;Daycoval;Daycoval;24;6043
+321;6043;10800;Daycoval 108% CDI por Daycoval;FGC;CDB;10.12% a.a.;05/10/2024;Daycoval;Daycoval;24;6043
+322;6042;1215;Daycoval Prefixado 12.15% por Daycoval;FGC;CDB;10.11% a.a.;05/10/2024;Daycoval;Daycoval;24;6042
+323;6022;10300;Daycoval 103% CDI por Daycoval;FGC;CDB;9.93% a.a.;06/10/2024;Daycoval;Daycoval;24;6022
+324;6011;10200;Daycoval 102% CDI por Daycoval;FGC;CDB;9.83% a.a.;06/10/2024;Daycoval;Daycoval;24;6011
+325;6001;10100;Daycoval 101% CDI por Daycoval;FGC;CDB;9.73% a.a.;06/10/2024;Daycoval;Daycoval;24;6001
+326;5.244;105.00;Daycoval 105% CDI por Daycoval;FGC;CDB;10.18% a.a.;16/04/2023;Daycoval;Daycoval;6;5244
+327;5.241;103.00;Daycoval 103% CDI por Daycoval;FGC;CDB;9.98% a.a.;17/04/2023;Daycoval;Daycoval;6;5241
+328;5.239;102.00;Daycoval 102% CDI por Daycoval;FGC;CDB;9.89% a.a.;17/04/2023;Daycoval;Daycoval;6;5239
+329;5.237;102.00;Daycoval 102% CDI por Nu invest;FGC;CDB;9.89% a.a.;16/04/2023;Nu invest;Daycoval;6;5237
+330;5.237;101.00;Daycoval 101% CDI por Daycoval;FGC;CDB;9.79% a.a.;17/04/2023;Daycoval;Daycoval;6;5237
+331;5.232;99.00;Daycoval 99% CDI por Guide Investimentos;FGC;CDB;9.60% a.a.;17/04/2023;Guide Investimentos;Daycoval;6;5232
+332;5.230;12.05;Daycoval Prefixado 12.05% por Daycoval;FGC;CDB;9.58% a.a.;16/04/2023;Daycoval;Daycoval;6;5230
+333;5.560;13.77;Digimais Prefixado 13.77% por Nova Futura Investimentos;FGC;CDB;11.35% a.a.;13/10/2023;Nova Futura Investimentos;Digimais;12;5560
+334;5.472;97.00;Digimais 97% CDI por modalmais;FGC;CDB;9.53% a.a.;16/10/2023;modalmais;Digimais;12;5472
+335;5.470;97.00;Digimais 97% CDI por Nova Futura Investimentos;FGC;CDB;9.53% a.a.;13/10/2023;Nova Futura Investimentos;Digimais;12;5470
+336;6187;1336;Digimais Prefixado 13.36% por Nova Futura Investimentos;FGC;CDB;11.45% a.a.;06/10/2024;Nova Futura Investimentos;Digimais;24;6187
+337;6177;11600;Digimais 116% CDI por modalmais;FGC;CDB;11.19% a.a.;15/10/2024;modalmais;Digimais;24;6177
+338;6161;11400;Digimais 114% CDI por Guide Investimentos;FGC;CDB;11.00% a.a.;17/10/2024;Guide Investimentos;Digimais;24;6161
+339;6158;11600;Digimais 116% CDI por Nova Futura Investimentos;FGC;CDB;11.19% a.a.;06/10/2024;Nova Futura Investimentos;Digimais;24;6158
+340;5945;9400;Digimais 94% CDI por Guide Investimentos;FGC;CDB;9.06% a.a.;16/10/2024;Guide Investimentos;Digimais;24;5945
+341;8697;12000;Digimais 120% CDI por modalmais;FGC;CDB;11.74% a.a.;15/10/2027;modalmais;Digimais;60;8697
+342;8593;11700;Digimais 117% CDI por Guide Investimentos;FGC;CDB;11.44% a.a.;20/10/2027;Guide Investimentos;Digimais;60;8593
+343;5.225;96.00;Digimais 96% CDI por Ágora Investimentos;FGC;CDB;9.31% a.a.;17/04/2023;Ágora Investimentos;Digimais;6;5225
+344;5.221;94.00;Digimais 94% CDI por Guide Investimentos;FGC;CDB;9.11% a.a.;17/04/2023;Guide Investimentos;Digimais;6;5221
+345;5.221;94.00;Digimais 94% CDI por Guide Investimentos;FGC;CDB;9.11% a.a.;17/04/2023;Guide Investimentos;Digimais;6;5221
+346;5.580;14.25;Facta Financeira Prefixado 14.25% por XP Investimentos;FGC;CDB;11.75% a.a.;15/10/2023;XP Investimentos;Facta Financeira;12;5580
+347;5.536;110.00;Facta Financeira 110% CDI por Órama;FGC;CDB;10.81% a.a.;16/10/2023;Órama;Facta Financeira;12;5536
+348;6259;1395;Facta Financeira Prefixado 13.95% por XP Investimentos;FGC;CDB;11.96% a.a.;14/10/2024;XP Investimentos;Facta Financeira;24;6259
+349;5.253;109.00;Facta Financeira 109% CDI por XP Investimentos;FGC;CDB;10.56% a.a.;16/04/2023;XP Investimentos;Facta Financeira;6;5253
+350;5.545;111.00;Fator 111% CDI por Ágora Investimentos;FGC;CDB;10.91% a.a.;18/10/2023;Ágora Investimentos;Fator;12;5545
+351;5.515;110.00;Fator 110% CDI por Nova Futura Investimentos;FGC;CDB;10.48% a.a.;11/10/2023;Nova Futura Investimentos;Fator;12;5515
+352;5.425;10.50;Fator Prefixado 10.5% por Nova Futura Investimentos;FGC;CDB;8.66% a.a.;12/10/2023;Nova Futura Investimentos;Fator;12;5425
+353;6163;11400;Fator 114% CDI por  gora Investimentos;FGC;CDB;11.00% a.a.;18/10/2024; gora Investimentos;Fator;24;6163
+354;6127;11300;Fator 113% CDI por Nova Futura Investimentos;FGC;CDB;10.90% a.a.;06/10/2024;Nova Futura Investimentos;Fator;24;6127
+355;5936;1067;Fator IPCA + 4.7% por Nova Futura Investimentos;FGC;CDB;9.13% a.a.;06/10/2024;Nova Futura Investimentos;Fator;24;5936
+356;5920;1050;Fator Prefixado 10.5% por Nova Futura Investimentos;FGC;CDB;8.98% a.a.;06/10/2024;Nova Futura Investimentos;Fator;24;5920
+357;5.244;104.00;Fator 104% CDI por Ágora Investimentos;FGC;CDB;10.08% a.a.;17/04/2023;Ágora Investimentos;Fator;6;5244
+358;5.232;103.00;Fator 103% CDI por Nova Futura Investimentos;FGC;CDB;9.66% a.a.;15/04/2023;Nova Futura Investimentos;Fator;6;5232
+359;5.552;13.50;Focus Financeira Prefixado 13.5% por modalmais;FGC;CDB;11.13% a.a.;16/10/2023;modalmais;Focus Financeira;12;5552
+360;6190;1320;Focus Financeira Prefixado 13.2% por modalmais;FGC;CDB;11.31% a.a.;15/10/2024;modalmais;Focus Financeira;24;6190
+361;5.239;102.00;ICBC 102% CDI por BTG Pactual;FGC;CDB;9.89% a.a.;17/04/2023;BTG Pactual;ICBC;6;5239
+362;5.523;106.00;Luso Brasileiro 106% CDI por Guide Investimentos;FGC;CDB;10.42% a.a.;19/10/2023;Guide Investimentos;Luso Brasileiro;12;5523
+363;5.521;107.00;Luso Brasileiro 107% CDI por Nova Futura Investimentos;FGC;CDB;10.51% a.a.;16/10/2023;Nova Futura Investimentos;Luso Brasileiro;12;5521
+364;5.514;105.50;Luso Brasileiro 105.5% CDI por XP Investimentos;FGC;CDB;10.37% a.a.;16/10/2023;XP Investimentos;Luso Brasileiro;12;5514
+365;6123;11100;Luso Brasileiro 111% CDI por modalmais;FGC;CDB;10.71% a.a.;15/10/2024;modalmais;Luso Brasileiro;24;6123
+366;6123;11100;Luso Brasileiro 111% CDI por modalmais;FGC;CDB;10.71% a.a.;15/10/2024;modalmais;Luso Brasileiro;24;6123
+367;6123;11100;Luso Brasileiro 111% CDI por Nova Futura Investimentos;FGC;CDB;10.71% a.a.;15/10/2024;Nova Futura Investimentos;Luso Brasileiro;24;6123
+368;6120;11000;Luso Brasileiro 110% CDI por Guide Investimentos;FGC;CDB;10.61% a.a.;20/10/2024;Guide Investimentos;Luso Brasileiro;24;6120
+369;6102;10900;Luso Brasileiro 109% CDI por XP Investimentos;FGC;CDB;10.51% a.a.;15/10/2024;XP Investimentos;Luso Brasileiro;24;6102
+370;8505;11500;Luso Brasileiro 115% CDI por Nova Futura Investimentos;FGC;CDB;11.24% a.a.;15/10/2027;Nova Futura Investimentos;Luso Brasileiro;60;8505
+371;8485;11400;Luso Brasileiro 114% CDI por Guide Investimentos;FGC;CDB;11.14% a.a.;22/10/2027;Guide Investimentos;Luso Brasileiro;60;8485
+372;5.244;104.00;Luso Brasileiro 104% CDI por Ágora Investimentos;FGC;CDB;10.08% a.a.;17/04/2023;Ágora Investimentos;Luso Brasileiro;6;5244
+373;5.241;102.00;Luso Brasileiro 102% CDI por Guide Investimentos;FGC;CDB;9.89% a.a.;18/04/2023;Guide Investimentos;Luso Brasileiro;6;5241
+374;5.239;103.00;Luso Brasileiro 103% CDI por Nova Futura Investimentos;FGC;CDB;9.98% a.a.;16/04/2023;Nova Futura Investimentos;Luso Brasileiro;6;5239
+375;5.234;100.50;Luso Brasileiro 100.5% CDI por XP Investimentos;FGC;CDB;9.74% a.a.;16/04/2023;XP Investimentos;Luso Brasileiro;6;5234
+376;6158;11600;M xima 116% CDI por modalmais;FGC;CDB;11.19% a.a.;06/10/2024;modalmais;M xima;24;6158
+377;5.507;105.00;Máxima 105% CDI por modalmais;FGC;CDB;10.32% a.a.;12/10/2023;modalmais;Máxima;12;5507
+378;5.262;13.80;Máxima Prefixado 13.8% por modalmais;FGC;CDB;10.96% a.a.;16/04/2023;modalmais;Máxima;6;5262
+379;5.244;105.00;Máxima 105% CDI por modalmais;FGC;CDB;10.18% a.a.;16/04/2023;modalmais;Máxima;6;5244
+380;5.538;111.00;Maxinvest 111% CDI por Daycoval;FGC;CDB;10.91% a.a.;14/10/2023;Daycoval;Maxinvest;12;5538
+381;5.500;12.30;Maxinvest Prefixado 12.3% por Daycoval;FGC;CDB;10.14% a.a.;14/10/2023;Daycoval;Maxinvest;12;5500
+382;6137;11400;Maxinvest 114% CDI por Daycoval;FGC;CDB;11.00% a.a.;06/10/2024;Daycoval;Maxinvest;24;6137
+383;6096;1240;Maxinvest Prefixado 12.4% por Daycoval;FGC;CDB;10.62% a.a.;06/10/2024;Daycoval;Maxinvest;24;6096
+384;5.248;107.00;Maxinvest 107% CDI por Daycoval;FGC;CDB;10.37% a.a.;16/04/2023;Daycoval;Maxinvest;6;5248
+385;5.221;11.60;Maxinvest Prefixado 11.6% por Daycoval;FGC;CDB;9.22% a.a.;16/04/2023;Daycoval;Maxinvest;6;5221
+386;5.247;103.00;Mercado Livre 103% CDI por Órama;FGC;CDB;9.98% a.a.;20/04/2023;Órama;Mercado Livre;6;5247
+387;5.244;104.00;Mercado Livre 104% CDI por Ágora Investimentos;FGC;CDB;10.08% a.a.;17/04/2023;Ágora Investimentos;Mercado Livre;6;5244
+388;5.242;103.50;Mercado Livre 103.5% CDI por BTG Pactual;FGC;CDB;10.03% a.a.;17/04/2023;BTG Pactual;Mercado Livre;6;5242
+389;5.239;103.00;Mercado Livre 103% CDI por XP Investimentos;FGC;CDB;9.98% a.a.;16/04/2023;XP Investimentos;Mercado Livre;6;5239
+390;6113;11000;Midway Financeira 110% CDI por XP Investimentos;FGC;CDB;10.61% a.a.;15/10/2024;XP Investimentos;Midway Financeira;24;6113
+391;8620;11800;Midway Financeira 118% CDI por XP Investimentos;FGC;CDB;11.54% a.a.;15/10/2027;XP Investimentos;Midway Financeira;60;8620
+392;5.551;13.48;Modal Prefixado 13.48% por modalmais;FGC;CDB;11.12% a.a.;16/10/2023;modalmais;Modal;12;5551
+393;5.540;111.00;Modal 111% CDI por modalmais;FGC;CDB;10.91% a.a.;16/10/2023;modalmais;Modal;12;5540
+394;6166;11500;Modal 115% CDI por modalmais;FGC;CDB;11.10% a.a.;15/10/2024;modalmais;Modal;24;6166
+395;6140;1267;Modal Prefixado 12.67% por modalmais;FGC;CDB;10.86% a.a.;15/10/2024;modalmais;Modal;24;6140
+396;5.265;13.93;Modal Prefixado 13.93% por modalmais;FGC;CDB;11.07% a.a.;16/04/2023;modalmais;Modal;6;5265
+397;5.263;13.73;Modal Prefixado 13.73% por BTG Pactual;FGC;CDB;10.91% a.a.;17/04/2023;BTG Pactual;Modal;6;5263
+398;5.258;13.43;Modal Prefixado 13.43% por Ágora Investimentos;FGC;CDB;10.67% a.a.;17/04/2023;Ágora Investimentos;Modal;6;5258
+399;5.255;110.00;Modal 110% CDI por modalmais;FGC;CDB;10.66% a.a.;16/04/2023;modalmais;Modal;6;5255
+400;5.239;102.00;Modal 102% CDI por BTG Pactual;FGC;CDB;9.89% a.a.;17/04/2023;BTG Pactual;Modal;6;5239
+401;5.234;100.00;Modal 100% CDI por Ágora Investimentos;FGC;CDB;9.69% a.a.;17/04/2023;Ágora Investimentos;Modal;6;5234
+402;5.549;13.56;NBC Prefixado 13.56% por Nova Futura Investimentos;FGC;CDB;11.18% a.a.;12/10/2023;Nova Futura Investimentos;NBC;12;5549
+403;5.489;101.24;NBC 101.24% CDI por Nova Futura Investimentos;FGC;CDB;9.95% a.a.;12/10/2023;Nova Futura Investimentos;NBC;12;5489
+404;6216;1367;NBC Prefixado 13.67% por Nova Futura Investimentos;FGC;CDB;11.72% a.a.;06/10/2024;Nova Futura Investimentos;NBC;24;6216
+405;6142;1326;NBC Prefixado 13.26% por Nu invest;FGC;CDB;11.04% a.a.;05/10/2024;Nu invest;NBC;24;6142
+406;6139;11413;NBC 114.13% CDI por Nova Futura Investimentos;FGC;CDB;11.01% a.a.;06/10/2024;Nova Futura Investimentos;NBC;24;6139
+407;5.487;100.00;NuBank 100% CDI por NuBank;FGC;RDB;9.82% a.a.;16/10/2023;NuBank;NuBank;12;5487
+408;6008;10000;NuBank 100% CDI por NuBank;FGC;RDB;9.64% a.a.;16/10/2024;NuBank;NuBank;24;6008
+409;5.234;100.00;NuBank 100% CDI por NuBank;FGC;RDB;9.69% a.a.;17/04/2023;NuBank;NuBank;6;5234
+410;5.504;103.00;Omni Banco 103% CDI por Guide Investimentos;FGC;CDB;10.12% a.a.;17/10/2023;Guide Investimentos;Omni Banco;12;5504
+411;6158;11600;Omni Banco 116% CDI por Nu invest;FGC;CDB;11.19% a.a.;06/10/2024;Nu invest;Omni Banco;24;6158
+412;6152;1299;Omni Banco Prefixado 12.99% por modalmais;FGC;CDB;11.13% a.a.;06/10/2024;modalmais;Omni Banco;24;6152
+413;6139;11200;Omni Banco 112% CDI por Guide Investimentos;FGC;CDB;10.81% a.a.;17/10/2024;Guide Investimentos;Omni Banco;24;6139
+414;8363;11100;Omni Banco 111% CDI por Guide Investimentos;FGC;CDB;10.84% a.a.;20/10/2027;Guide Investimentos;Omni Banco;60;8363
+415;5.250;104.00;Omni Banco 104% CDI por BTG Pactual;FGC;CDB;10.08% a.a.;20/04/2023;BTG Pactual;Omni Banco;6;5250
+416;5.244;104.00;Omni Banco 104% CDI por Nu invest;FGC;CDB;10.08% a.a.;17/04/2023;Nu invest;Omni Banco;6;5244
+417;5.237;101.00;Omni Banco 101% CDI por Ágora Investimentos;FGC;CDB;9.79% a.a.;17/04/2023;Ágora Investimentos;Omni Banco;6;5237
+418;5.236;100.00;Omni Banco 100% CDI por Guide Investimentos;FGC;CDB;9.69% a.a.;18/04/2023;Guide Investimentos;Omni Banco;6;5236
+419;5.504;103.00;Original 103% CDI por Guide Investimentos;FGC;CDB;10.12% a.a.;17/10/2023;Guide Investimentos;Original;12;5504
+420;5.497;103.00;Original 103% CDI por modalmais;FGC;CDB;10.12% a.a.;12/10/2023;modalmais;Original;12;5497
+421;6075;10600;Original 106% CDI por Guide Investimentos;FGC;CDB;10.22% a.a.;17/10/2024;Guide Investimentos;Original;24;6075
+422;6053;10600;Original 106% CDI por modalmais;FGC;CDB;10.22% a.a.;06/10/2024;modalmais;Original;24;6053
+423;5.244;104.00;Ourinvest 104% CDI por BTG Pactual;FGC;CDB;10.08% a.a.;17/04/2023;BTG Pactual;Ourinvest;6;5244
+424;5.525;107.00;PagBank 107% CDI por Ágora Investimentos;FGC;CDB;10.51% a.a.;18/10/2023;Ágora Investimentos;PagBank;12;5525
+425;5.518;106.00;PagBank 106% CDI por Guide Investimentos;FGC;CDB;10.42% a.a.;17/10/2023;Guide Investimentos;PagBank;12;5518
+426;5.514;105.50;PagBank 105.5% CDI por XP Investimentos;FGC;CDB;10.37% a.a.;16/10/2023;XP Investimentos;PagBank;12;5514
+427;5.246;105.00;PagBank 105% CDI por Nu invest;FGC;CDB;10.18% a.a.;17/04/2023;Nu invest;PagBank;6;5246
+428;5.246;105.00;PagBank 105% CDI por Ágora Investimentos;FGC;CDB;10.18% a.a.;17/04/2023;Ágora Investimentos;PagBank;6;5246
+429;5.246;105.00;PagBank 105% CDI por Nu invest;FGC;CDB;10.18% a.a.;17/04/2023;Nu invest;PagBank;6;5246
+430;5.244;105.00;PagBank 105% CDI por XP Investimentos;FGC;CDB;10.18% a.a.;16/04/2023;XP Investimentos;PagBank;6;5244
+431;5.545;13.45;PAN Prefixado 13.45% por modalmais;FGC;CDB;11.09% a.a.;12/10/2023;modalmais;PAN;12;5545
+432;5.507;103.75;PAN 103.75% CDI por Guide Investimentos;FGC;CDB;10.19% a.a.;17/10/2023;Guide Investimentos;PAN;12;5507
+433;6082;1225;PAN Prefixado 12.25% por modalmais;FGC;CDB;10.49% a.a.;06/10/2024;modalmais;PAN;24;6082
+434;6053;10400;PAN 104% CDI por Guide Investimentos;FGC;CDB;10.03% a.a.;17/10/2024;Guide Investimentos;PAN;24;6053
+435;8243;1205;PAN Prefixado 12.05% por modalmais;FGC;CDB;10.55% a.a.;16/10/2027;modalmais;PAN;60;8243
+436;5.270;14.10;PAN Prefixado 14.1% por BTG Pactual;FGC;CDB;11.20% a.a.;17/04/2023;BTG Pactual;PAN;6;5270
+437;5.268;14.00;PAN Prefixado 14% por Ágora Investimentos;FGC;CDB;11.12% a.a.;17/04/2023;Ágora Investimentos;PAN;6;5268
+438;5.264;13.80;PAN Prefixado 13.8% por Nu invest;FGC;CDB;10.96% a.a.;17/04/2023;Nu invest;PAN;6;5264
+439;5.244;104.25;PAN 104.25% CDI por BTG Pactual;FGC;CDB;10.10% a.a.;17/04/2023;BTG Pactual;PAN;6;5244
+440;5.242;103.25;PAN 103.25% CDI por Ágora Investimentos;FGC;CDB;10.01% a.a.;17/04/2023;Ágora Investimentos;PAN;6;5242
+441;6095;11000;Paran  Banco 110% CDI por Paran  Banco;FGC;CDB;10.61% a.a.;06/10/2024;Paran  Banco;Paran  Banco;24;6095
+442;6078;1220;Paran  Banco Prefixado 12.2% por Nova Futura Investimentos;FGC;CDB;10.45% a.a.;06/10/2024;Nova Futura Investimentos;Paran  Banco;24;6078
+443;6064;10500;Paran  Banco 105% CDI por Guide Investimentos;FGC;CDB;10.13% a.a.;17/10/2024;Guide Investimentos;Paran  Banco;24;6064
+444;6053;10600;Paran  Banco 106% CDI por Nova Futura Investimentos;FGC;CDB;10.22% a.a.;06/10/2024;Nova Futura Investimentos;Paran  Banco;24;6053
+445;6043;10500;Paran  Banco 105% CDI por Paran  Banco;FGC;CDB;10.12% a.a.;06/10/2024;Paran  Banco;Paran  Banco;24;6043
+446;5990;10000;Paran  Banco 100% CDI por Paran  Banco;FGC;CDB;9.64% a.a.;06/10/2024;Paran  Banco;Paran  Banco;24;5990
+447;5988;1123;Paran  Banco IPCA + 5.23% por Nova Futura Investimentos;FGC;CDB;9.62% a.a.;06/10/2024;Nova Futura Investimentos;Paran  Banco;24;5988
+448;5.524;108.00;Paraná Banco 108% CDI por Paraná Banco;FGC;CDB;10.61% a.a.;13/10/2023;Paraná Banco;Paraná Banco;12;5524
+449;5.511;105.00;Paraná Banco 105% CDI por Paraná Banco;FGC;CDB;10.32% a.a.;16/10/2023;Paraná Banco;Paraná Banco;12;5511
+450;5.504;103.00;Paraná Banco 103% CDI por Guide Investimentos;FGC;CDB;10.12% a.a.;17/10/2023;Guide Investimentos;Paraná Banco;12;5504
+451;5.502;104.00;Paraná Banco 104% CDI por Nova Futura Investimentos;FGC;CDB;10.22% a.a.;12/10/2023;Nova Futura Investimentos;Paraná Banco;12;5502
+452;5.487;100.00;Paraná Banco 100% CDI por Paraná Banco;FGC;CDB;9.82% a.a.;16/10/2023;Paraná Banco;Paraná Banco;12;5487
+453;5.268;14.01;Paraná Banco Prefixado 14.01% por Ágora Investimentos;FGC;CDB;11.13% a.a.;17/04/2023;Ágora Investimentos;Paraná Banco;6;5268
+454;5.268;13.86;Paraná Banco Prefixado 13.86% por Guide Investimentos;FGC;CDB;11.01% a.a.;18/04/2023;Guide Investimentos;Paraná Banco;6;5268
+455;5.267;13.96;Paraná Banco Prefixado 13.96% por BTG Pactual;FGC;CDB;11.09% a.a.;17/04/2023;BTG Pactual;Paraná Banco;6;5267
+456;5.246;105.00;Paraná Banco 105% CDI por Paraná Banco;FGC;CDB;10.18% a.a.;17/04/2023;Paraná Banco;Paraná Banco;6;5246
+457;5.244;105.00;Paraná Banco 105% CDI por Paraná Banco;FGC;CDB;10.18% a.a.;16/04/2023;Paraná Banco;Paraná Banco;6;5244
+458;5.239;102.00;Paraná Banco 102% CDI por BTG Pactual;FGC;CDB;9.89% a.a.;17/04/2023;BTG Pactual;Paraná Banco;6;5239
+459;5.239;102.00;Paraná Banco 102% CDI por Ágora Investimentos;FGC;CDB;9.89% a.a.;17/04/2023;Ágora Investimentos;Paraná Banco;6;5239
+460;5.239;101.00;Paraná Banco 101% CDI por Guide Investimentos;FGC;CDB;9.79% a.a.;18/04/2023;Guide Investimentos;Paraná Banco;6;5239
+461;5.234;100.00;Paraná Banco 100% CDI por Paraná Banco;FGC;CDB;9.69% a.a.;17/04/2023;Paraná Banco;Paraná Banco;6;5234
+462;5.230;102.00;Paraná Banco 102% CDI por Nova Futura Investimentos;FGC;CDB;9.57% a.a.;15/04/2023;Nova Futura Investimentos;Paraná Banco;6;5230
+463;5.513;105.00;Paulista 105% CDI por Guide Investimentos;FGC;CDB;10.32% a.a.;17/10/2023;Guide Investimentos;Paulista;12;5513
+464;6129;9500;Paulista 95% CDI por Guide Investimentos;FGC;LCA;10.69% a.a.;19/10/2024;Guide Investimentos;Paulista;24;6129
+465;8566;11700;Paulista 117% CDI por Guide Investimentos;FGC;CDB;11.44% a.a.;09/10/2027;Guide Investimentos;Paulista;60;8566
+466;5.519;107.00;Pine 107% CDI por Daycoval;FGC;CDB;10.51% a.a.;14/10/2023;Daycoval;Pine;12;5519
+467;5.516;106.00;Pine 106% CDI por modalmais;FGC;CDB;10.41% a.a.;16/10/2023;modalmais;Pine;12;5516
+468;5.516;12.68;Pine Prefixado 12.68% por Daycoval;FGC;CDB;10.45% a.a.;14/10/2023;Daycoval;Pine;12;5516
+469;5.513;105.00;Pine 105% CDI por Guide Investimentos;FGC;CDB;10.32% a.a.;17/10/2023;Guide Investimentos;Pine;12;5513
+470;5.505;12.36;Pine Prefixado 12.36% por modalmais;FGC;CDB;10.19% a.a.;16/10/2023;modalmais;Pine;12;5505
+471;6168;1316;Pine Prefixado 13.16% por modalmais;FGC;CDB;11.28% a.a.;06/10/2024;modalmais;Pine;24;6168
+472;6106;11100;Pine 111% CDI por Daycoval;FGC;CDB;10.71% a.a.;06/10/2024;Daycoval;Pine;24;6106
+473;6096;10800;Pine 108% CDI por Guide Investimentos;FGC;CDB;10.42% a.a.;17/10/2024;Guide Investimentos;Pine;24;6096
+474;6096;1239;Pine Prefixado 12.39% por Daycoval;FGC;CDB;10.61% a.a.;06/10/2024;Daycoval;Pine;24;6096
+475;6085;10900;Pine 109% CDI por modalmais;FGC;CDB;10.51% a.a.;06/10/2024;modalmais;Pine;24;6085
+476;8510;1284;Pine IPCA + 6.75% por modalmais;FGC;CDB;11.26% a.a.;16/10/2027;modalmais;Pine;60;8510
+477;8363;11100;Pine 111% CDI por Guide Investimentos;FGC;CDB;10.84% a.a.;20/10/2027;Guide Investimentos;Pine;60;8363
+478;5.307;12.77;Pine Prefixado 12.77% por Pine Online;FGC;LCA;12.77% a.a.;17/04/2023;Pine Online;Pine;6;5307
+479;5.291;12.21;Pine Prefixado 12.21% por Ágora Investimentos;FGC;LCA;12.21% a.a.;14/04/2023;Ágora Investimentos;Pine;6;5291
+480;5.290;12.08;Pine Prefixado 12.08% por BTG Pactual;FGC;LCA;12.08% a.a.;17/04/2023;BTG Pactual;Pine;6;5290
+481;5.279;95.00;Pine 95% CDI por Pine Online;FGC;LCA;11.58% a.a.;17/04/2023;Pine Online;Pine;6;5279
+482;5.276;94.00;Pine 94% CDI por BTG Pactual;FGC;LCA;11.46% a.a.;17/04/2023;BTG Pactual;Pine;6;5276
+483;5.275;11.70;Pine Prefixado 11.7% por Nu invest;FGC;LCA;11.70% a.a.;12/04/2023;Nu invest;Pine;6;5275
+484;5.274;13.82;Pine Prefixado 13.82% por Órama;FGC;CDB;10.98% a.a.;24/04/2023;Órama;Pine;6;5274
+485;5.269;94.00;Pine 94% CDI por Nu invest;FGC;LCA;11.46% a.a.;12/04/2023;Nu invest;Pine;6;5269
+486;5.267;13.72;Pine Prefixado 13.72% por Guide Investimentos;FGC;CDB;10.90% a.a.;19/04/2023;Guide Investimentos;Pine;6;5267
+487;5.267;13.95;Pine Prefixado 13.95% por Ágora Investimentos;FGC;CDB;11.08% a.a.;17/04/2023;Ágora Investimentos;Pine;6;5267
+488;5.267;13.92;Pine Prefixado 13.92% por Pine Online;FGC;CDB;11.06% a.a.;17/04/2023;Pine Online;Pine;6;5267
+489;5.266;13.87;Pine Prefixado 13.87% por BTG Pactual;FGC;CDB;11.02% a.a.;17/04/2023;BTG Pactual;Pine;6;5266
+490;5.241;103.00;Pine 103% CDI por Pine Online;FGC;CDB;9.98% a.a.;17/04/2023;Pine Online;Pine;6;5241
+491;5.237;101.00;Pine 101% CDI por Pine Online;FGC;CDB;9.79% a.a.;17/04/2023;Pine Online;Pine;6;5237
+492;5.237;101.00;Pine 101% CDI por Ágora Investimentos;FGC;CDB;9.79% a.a.;17/04/2023;Ágora Investimentos;Pine;6;5237
+493;5.236;100.50;Pine 100.5% CDI por BTG Pactual;FGC;CDB;9.74% a.a.;17/04/2023;BTG Pactual;Pine;6;5236
+494;5.235;101.00;Pine 101% CDI por Daycoval;FGC;CDB;9.79% a.a.;16/04/2023;Daycoval;Pine;6;5235
+495;5.234;99.00;Pine 99% CDI por Guide Investimentos;FGC;CDB;9.60% a.a.;18/04/2023;Guide Investimentos;Pine;6;5234
+496;5.233;100.00;Pine 100% CDI por modalmais;FGC;CDB;9.69% a.a.;16/04/2023;modalmais;Pine;6;5233
+497;5.231;12.10;Pine Prefixado 12.1% por Daycoval;FGC;CDB;9.62% a.a.;16/04/2023;Daycoval;Pine;6;5231
+498;5.530;108.75;Realize Financeira 108.75% CDI por XP Investimentos;FGC;CDB;10.68% a.a.;16/10/2023;XP Investimentos;Realize Financeira;12;5530
+499;6107;10950;Realize Financeira 109.5% CDI por XP Investimentos;FGC;CDB;10.56% a.a.;15/10/2024;XP Investimentos;Realize Financeira;24;6107
+500;5.564;13.80;RNX Prefixado 13.8% por Órama;FGC;CDB;11.38% a.a.;16/10/2023;Órama;RNX;12;5564
+501;5.556;13.60;RNX Prefixado 13.6% por modalmais;FGC;CDB;11.21% a.a.;16/10/2023;modalmais;RNX;12;5556
+502;5.526;108.00;RNX 108% CDI por Órama;FGC;CDB;10.61% a.a.;16/10/2023;Órama;RNX;12;5526
+503;5.516;106.00;RNX 106% CDI por modalmais;FGC;CDB;10.41% a.a.;16/10/2023;modalmais;RNX;12;5516
+504;6206;1345;RNX Prefixado 13.45% por  rama;FGC;CDB;11.53% a.a.;10/10/2024; rama;RNX;24;6206
+505;6176;1325;RNX Prefixado 13.25% por modalmais;FGC;CDB;11.35% a.a.;06/10/2024;modalmais;RNX;24;6176
+506;6116;11100;RNX 111% CDI por  rama;FGC;CDB;10.71% a.a.;10/10/2024; rama;RNX;24;6116
+507;6085;10900;RNX 109% CDI por modalmais;FGC;CDB;10.51% a.a.;06/10/2024;modalmais;RNX;24;6085
+508;5.275;14.00;RNX Prefixado 14% por Órama;FGC;CDB;11.12% a.a.;20/04/2023;Órama;RNX;6;5275
+509;5.264;13.90;RNX Prefixado 13.9% por modalmais;FGC;CDB;11.04% a.a.;16/04/2023;modalmais;RNX;6;5264
+510;5.250;104.00;RNX 104% CDI por Órama;FGC;CDB;10.08% a.a.;20/04/2023;Órama;RNX;6;5250
+511;5.244;104.00;RNX 104% CDI por Nu invest;FGC;CDB;10.08% a.a.;17/04/2023;Nu invest;RNX;6;5244
+512;5.237;102.00;RNX 102% CDI por modalmais;FGC;CDB;9.89% a.a.;16/04/2023;modalmais;RNX;6;5237
+513;6094;10800;Rodobens 108% CDI por Nu invest;FGC;CDB;10.42% a.a.;16/10/2024;Nu invest;Rodobens;24;6094
+514;5.265;11.00;Rodobens Prefixado 11% por Nu invest;FGC;LCI;11.00% a.a.;17/04/2023;Nu invest;Rodobens;6;5265
+515;5.265;11.00;Rodobens Prefixado 11% por Nu invest;FGC;LCA;11.00% a.a.;17/04/2023;Nu invest;Rodobens;6;5265
+516;5.265;11.00;Rodobens Prefixado 11% por BTG Pactual;FGC;LCA;11.00% a.a.;17/04/2023;BTG Pactual;Rodobens;6;5265
+517;5.265;11.00;Rodobens Prefixado 11% por BTG Pactual;FGC;LCI;11.00% a.a.;17/04/2023;BTG Pactual;Rodobens;6;5265
+518;5.259;13.53;Rodobens Prefixado 13.53% por BTG Pactual;FGC;CDB;10.75% a.a.;17/04/2023;BTG Pactual;Rodobens;6;5259
+519;5.244;83.00;Rodobens 83% CDI por BTG Pactual;FGC;LCI;10.12% a.a.;17/04/2023;BTG Pactual;Rodobens;6;5244
+520;5.244;83.00;Rodobens 83% CDI por BTG Pactual;FGC;LCA;10.12% a.a.;17/04/2023;BTG Pactual;Rodobens;6;5244
+521;5.244;83.00;Rodobens 83% CDI por Nu invest;FGC;LCA;10.12% a.a.;17/04/2023;Nu invest;Rodobens;6;5244
+522;5.244;83.00;Rodobens 83% CDI por Nu invest;FGC;LCI;10.12% a.a.;17/04/2023;Nu invest;Rodobens;6;5244
+523;5.236;100.50;Rodobens 100.5% CDI por BTG Pactual;FGC;CDB;9.74% a.a.;17/04/2023;BTG Pactual;Rodobens;6;5236
+524;6095;11000;Santana Financeira 110% CDI por Daycoval;FGC;LC;10.61% a.a.;06/10/2024;Daycoval;Santana Financeira;24;6095
+525;5939;1070;Santana Financeira Prefixado 10.7% por Daycoval;FGC;LC;9.15% a.a.;06/10/2024;Daycoval;Santana Financeira;24;5939
+526;5.244;105.00;Santana Financeira 105% CDI por Daycoval;FGC;LC;10.18% a.a.;16/04/2023;Daycoval;Santana Financeira;6;5244
+527;6118;11000;Santinvest Financeira 110% CDI por Guide Investimentos;FGC;CDB;10.61% a.a.;17/10/2024;Guide Investimentos;Santinvest Financeira;24;6118
+528;6106;11100;Santinvest Financeira 111% CDI por modalmais;FGC;CDB;10.71% a.a.;06/10/2024;modalmais;Santinvest Financeira;24;6106
+529;5752;865;Santinvest Financeira Prefixado 8.65% por modalmais;FGC;CDB;7.39% a.a.;06/10/2024;modalmais;Santinvest Financeira;24;5752
+530;8439;11300;Santinvest Financeira 113% CDI por Guide Investimentos;FGC;CDB;11.04% a.a.;20/10/2027;Guide Investimentos;Santinvest Financeira;60;8439
+531;5.524;108.00;Semear 108% CDI por Daycoval;FGC;CDB;10.61% a.a.;14/10/2023;Daycoval;Semear;12;5524
+532;6106;11100;Semear 111% CDI por Daycoval;FGC;CDB;10.71% a.a.;06/10/2024;Daycoval;Semear;24;6106
+533;5.232;99.00;Senff Financeira 99% CDI por BTG Pactual;FGC;CDB;9.60% a.a.;17/04/2023;BTG Pactual;Senff Financeira;6;5232
+534;8420;1257;Socinal Financeira IPCA + 6.5% por  rama;FGC;CDB;11.02% a.a.;17/10/2027; rama;Socinal Financeira;60;8420
+535;6145;11300;Sorocred Financeira 113% CDI por XP Investimentos;FGC;CDB;10.90% a.a.;15/10/2024;XP Investimentos;Sorocred Financeira;24;6145
+536;5.569;116.85;Tesouro SELIC 2027;;Tesouro Direto;11.48% a.a.;16/10/2023;Rico Investimentos;Tesouro Nacional;12;5569
+537;5.565;115.97;Tesouro SELIC 2024;;Tesouro Direto;11.39% a.a.;16/10/2023;Rico Investimentos;Tesouro Nacional;12;5565
+538;6263;12366;Tesouro SELIC 2027;;Tesouro Direto;11.94% a.a.;16/10/2024;Rico Investimentos;Tesouro Nacional;24;6263
+539;5.267;114.18;Tesouro SELIC 2027;;Tesouro Direto;11.06% a.a.;17/04/2023;Rico Investimentos;Tesouro Nacional;6;5267
+540;5.265;113.32;Tesouro SELIC 2024;;Tesouro Direto;10.98% a.a.;17/04/2023;Rico Investimentos;Tesouro Nacional;6;5265
+541;6127;11300;Top zio 113% CDI por modalmais;FGC;CDB;10.90% a.a.;06/10/2024;modalmais;Top zio;24;6127
+542;5.526;108.00;Topázio 108% CDI por modalmais;FGC;CDB;10.61% a.a.;16/10/2023;modalmais;Topázio;12;5526
+543;5.522;12.89;Tribanco Prefixado 12.89% por modalmais;FGC;CDB;10.63% a.a.;12/10/2023;modalmais;Tribanco;12;5522
+544;6091;10800;Tribanco 108% CDI por modalmais;FGC;CDB;10.42% a.a.;15/10/2024;modalmais;Tribanco;24;6091
+545;6047;1187;Tribanco Prefixado 11.87% por modalmais;FGC;CDB;10.16% a.a.;06/10/2024;modalmais;Tribanco;24;6047
+546;8315;11000;Tribanco 110% CDI por modalmais;FGC;CDB;10.74% a.a.;15/10/2027;modalmais;Tribanco;60;8315
+547;5.267;13.48;Tribanco Prefixado 13.48% por Órama;FGC;CDB;10.71% a.a.;24/04/2023;Órama;Tribanco;6;5267
+548;5.259;13.51;Tribanco Prefixado 13.51% por Ágora Investimentos;FGC;CDB;10.73% a.a.;17/04/2023;Ágora Investimentos;Tribanco;6;5259
+549;5.255;13.28;Tribanco Prefixado 13.28% por BTG Pactual;FGC;CDB;10.55% a.a.;17/04/2023;BTG Pactual;Tribanco;6;5255
+550;5.253;13.28;Tribanco Prefixado 13.28% por modalmais;FGC;CDB;10.55% a.a.;16/04/2023;modalmais;Tribanco;6;5253
+551;5.487;100.00;Voiter 100% CDI por Órama;FGC;CDB;9.82% a.a.;16/10/2023;Órama;Voiter;12;5487
+552;5999;10000;Voiter 100% CDI por  rama;FGC;CDB;9.64% a.a.;10/10/2024; rama;Voiter;24;5999
+553;5.287;14.50;Voiter Prefixado 14.5% por Órama;FGC;CDB;11.52% a.a.;24/04/2023;Órama;Voiter;6;5287
+554;5.281;14.45;Voiter Prefixado 14.45% por Guide Investimentos;FGC;CDB;11.48% a.a.;19/04/2023;Guide Investimentos;Voiter;6;5281
+555;5.279;95.00;Voiter 95% CDI por BTG Pactual;FGC;LCA;11.58% a.a.;17/04/2023;BTG Pactual;Voiter;6;5279
+556;5.276;14.45;Voiter Prefixado 14.45% por BTG Pactual;FGC;CDB;11.48% a.a.;17/04/2023;BTG Pactual;Voiter;6;5276
+557;5.276;14.45;Voiter Prefixado 14.45% por Ágora Investimentos;FGC;CDB;11.48% a.a.;17/04/2023;Ágora Investimentos;Voiter;6;5276
+558;5.234;100.00;Voiter 100% CDI por Órama;FGC;CDB;9.69% a.a.;17/04/2023;Órama;Voiter;6;5234
+559;5.234;100.00;Voiter 100% CDI por Ágora Investimentos;FGC;CDB;9.69% a.a.;17/04/2023;Ágora Investimentos;Voiter;6;5234
+560;5.548;13.42;Votorantim Prefixado 13.42% por modalmais;FGC;CDB;11.07% a.a.;16/10/2023;modalmais;Votorantim;12;5548
+561;5.500;102.70;Votorantim 102.7% CDI por modalmais;FGC;CDB;10.09% a.a.;16/10/2023;modalmais;Votorantim;12;5500
+562;6104;1230;Votorantim Prefixado 12.3% por modalmais;FGC;CDB;10.54% a.a.;15/10/2024;modalmais;Votorantim;24;6104
+563;6054;10451;Votorantim 104.51% CDI por modalmais;FGC;CDB;10.08% a.a.;15/10/2024;modalmais;Votorantim;24;6054
+564;6048;10354;Votorantim 103.54% CDI por Guide Investimentos;FGC;CDB;9.98% a.a.;17/10/2024;Guide Investimentos;Votorantim;24;6048
+565;8387;1248;Votorantim Prefixado 12.48% por modalmais;FGC;CDB;10.93% a.a.;15/10/2027;modalmais;Votorantim;60;8387
+566;8272;10883;Votorantim 108.83% CDI por modalmais;FGC;CDB;10.62% a.a.;15/10/2027;modalmais;Votorantim;60;8272
+567;5.605;14.80;Will Financeira Prefixado 14.8% por Órama;FGC;CDB;12.20% a.a.;16/10/2023;Órama;Will Financeira;12;5605
+568;5.544;13.31;Will Financeira Prefixado 13.31% por Will Financeira;FGC;RDB;10.97% a.a.;16/10/2023;Will Financeira;Will Financeira;12;5544
+569;5.541;111.20;Will Financeira 111.2% CDI por Will Financeira;FGC;RDB;10.93% a.a.;16/10/2023;Will Financeira;Will Financeira;12;5541
+570;5.532;109.20;Will Financeira 109.2% CDI por Will Financeira;FGC;CDB;10.73% a.a.;16/10/2023;Will Financeira;Will Financeira;12;5532
+571;5.532;109.20;Will Financeira 109.2% CDI por Will Financeira;FGC;LC;10.73% a.a.;16/10/2023;Will Financeira;Will Financeira;12;5532
+572;5.510;12.49;Will Financeira Prefixado 12.49% por Will Financeira;FGC;LC;10.30% a.a.;16/10/2023;Will Financeira;Will Financeira;12;5510
+573;5.510;12.49;Will Financeira Prefixado 12.49% por Will Financeira;FGC;CDB;10.30% a.a.;16/10/2023;Will Financeira;Will Financeira;12;5510
+574;6316;1460;Will Financeira Prefixado 14.6% por  rama;FGC;CDB;12.52% a.a.;10/10/2024; rama;Will Financeira;24;6316
+575;6311;1445;Will Financeira Prefixado 14.45% por modalmais;FGC;CDB;12.40% a.a.;15/10/2024;modalmais;Will Financeira;24;6311
+576;6226;1357;Will Financeira Prefixado 13.57% por Will Financeira;FGC;RDB;11.63% a.a.;15/10/2024;Will Financeira;Will Financeira;24;6226
+577;6150;1278;Will Financeira Prefixado 12.78% por Will Financeira;FGC;CDB;10.95% a.a.;15/10/2024;Will Financeira;Will Financeira;24;6150
+578;6150;1278;Will Financeira Prefixado 12.78% por Will Financeira;FGC;LC;10.95% a.a.;15/10/2024;Will Financeira;Will Financeira;24;6150
+579;6120;11070;Will Financeira 110.7% CDI por Will Financeira;FGC;RDB;10.68% a.a.;15/10/2024;Will Financeira;Will Financeira;24;6120
+580;6099;10870;Will Financeira 108.7% CDI por Will Financeira;FGC;LC;10.48% a.a.;15/10/2024;Will Financeira;Will Financeira;24;6099
+581;6099;10870;Will Financeira 108.7% CDI por Will Financeira;FGC;CDB;10.48% a.a.;15/10/2024;Will Financeira;Will Financeira;24;6099
+582;8756;12150;Will Financeira 121.5% CDI por modalmais;FGC;CDB;11.89% a.a.;15/10/2027;modalmais;Will Financeira;60;8756
+583;8707;1341;Will Financeira Prefixado 13.41% por Will Financeira;FGC;RDB;11.77% a.a.;16/10/2027;Will Financeira;Will Financeira;60;8707
+584;8438;1263;Will Financeira Prefixado 12.63% por Will Financeira;FGC;LC;11.07% a.a.;16/10/2027;Will Financeira;Will Financeira;60;8438
+585;8438;1263;Will Financeira Prefixado 12.63% por Will Financeira;FGC;CDB;11.07% a.a.;16/10/2027;Will Financeira;Will Financeira;60;8438
+586;8345;11079;Will Financeira 110.8% CDI por Will Financeira;FGC;RDB;10.82% a.a.;16/10/2027;Will Financeira;Will Financeira;60;8345
+587;8271;10880;Will Financeira 108.8% CDI por Will Financeira;FGC;CDB;10.62% a.a.;16/10/2027;Will Financeira;Will Financeira;60;8271
+588;8271;10880;Will Financeira 108.8% CDI por Will Financeira;FGC;LC;10.62% a.a.;16/10/2027;Will Financeira;Will Financeira;60;8271
